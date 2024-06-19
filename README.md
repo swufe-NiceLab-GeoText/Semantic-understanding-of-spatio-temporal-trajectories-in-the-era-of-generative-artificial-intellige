@@ -34,7 +34,10 @@
 
 * Alam M M, Torgo L, Bifet A. 2022. [A survey on spatio-temporal data analytics systems](https://dl.acm.org/doi/abs/10.1145/3507904). *ACM Computing Surveys 2022*.
 * Erwig, Martin, et al. 1999. [Spatio-temporal data types: An approach to modeling and querying moving objects in databases](https://link.springer.com/article/10.1023/A:1009805532638). *GeoInformatica 1999*.
+* Shekhar S, Jiang Z, Ali R Y, et al. 2015. [Spatiotemporal data mining: A computational perspective](https://www.mdpi.com/2220-9964/4/4/2306). *ISPRS International Journal of Geo-Information, 2015*
 * Pelekis, Nikos, et al. 2004. [Literature review of spatio-temporal database models](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/literature-review-of-spatiotemporal-database-models/38175D21635346C9002C3C2DEDF9232D). *The Knowledge Engineering Review 2004*.
+* Yao D, Zhang C, Huang JH, Chen YX, Bi JP. 2018. [Semantic understanding of spatio-temporal data: Technology & application](https://www.jos.org.cn/josen/article/abstract/5576). *Ruan Jian Xue Bao/Journal of Software, 2018*
+* Gao Q, Zhang FL, Wang RJ, Zhou F. 2017. [Trajectory big data: A review of key technologies in data processing](https://www.jos.org.cn/josen/article/abstract/5143). *Ruan Jian Xue Bao/Journal of Software, 2017*
 * Zhang, Junbo, et al. 2016. [DNN-based prediction model for spatio-temporal data](https://dl.acm.org/doi/abs/10.1145/2996913.2997016). *Proceedings of the 24th ACM SIGSPATIAL international conference on advances in geographic information systems 2016*.
 
 <h3 id="common_trajectory_data">常见时空轨迹数据</h3> 8.9
@@ -127,24 +130,18 @@
 * Kong X, Zhou W, Shen G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](https://www.sciencedirect.com/science/article/pii/S0950705122012849). *Knowledge-Based Systems, 2023*.
 * Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](https://www.mdpi.com/2220-9964/12/1/13). *ISPRS International Journal of Geo-Information, 2023*.
 
-[新智能时代的时空轨迹语义理解的挑战与机遇](#challenge_and_opportunities)
-  * [多模态数据处理](#multimodal_data_processing)
-  * [模型的透明可释](#transparent_and_releasable)
-  * [开放语义建模](#open_semantic_modeling)
-  * [模型可用与资源消耗](#availability_and_resource_consumption)
-  * [隐私、伦理与信任问题](#trust_issues)
 
-<h2 id="challenge_and_opportunities">新智能时代的时空轨迹语义理解的挑战与机遇</h2>
+<h2 id="challenge_and_opportunities">新智能时代的时空轨迹语义理解的挑战与机遇</h2> 215
 
-<h3 id="multimodal_data_processing">多模态数据处理</h3>
+<h3 id="multimodal_data_processing">多模态数据处理</h3> 216-223
 
-<h3 id="transparent_and_releasable">模型的透明可释</h3>
+<h3 id="transparent_and_releasable">模型的透明可释</h3> 224-227
+ 
+<h3 id="open_semantic_modeling">开放语义建模</h3> 228-233
 
-<h3 id="open_semantic_modeling">开放语义建模</h3>
+<h3 id="availability_and_resource_consumption">模型可用与资源消耗</h3> 234-237
 
-<h3 id="availability_and_resource_consumption">模型可用与资源消耗</h3>
-
-<h3 id="trust_issues">伦理与信任问题</h3>
+<h3 id="trust_issues">伦理与信任问题</h3> 238-240
 
 
 
