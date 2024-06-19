@@ -150,18 +150,110 @@
 
 <h4 id="causal_representation_learning">因果表示学习（Disentangled Representation Learning）</h3> 87-92
 
+*	SWANSON N R, GRANGER C W J. 1997. [Impulse Response Functions Based on a Causal Approach to Residual Orthogonalization in Vector Autoregressions](https://www.tandfonline.com/doi/abs/10.1080/01621459.1997.10473634). *Journal of the American Statistical Association 1997*.
+* HYVÄRINEN A, ZHANG K, SHIMIZU S, et al. 2010. [Estimation of a Structural Vector Autoregression Model Using Non-Gaussianity](https://www.jmlr.org/papers/volume11/hyvarinen10a/hyvarinen10a.pdf). *Journal of Machine Learning Research 2010*.
+* Yao W, Sun Y, Ho A, et al. 2021. [Learning temporally causal latent processes from general temporal data](https://arxiv.org/abs/2110.05428). *arXiv preprint arXiv:2110.05428 2021*.
+* Song X, Yao W, Fan Y, et al. 2024. [Temporally Disentangled Representation Learning under Unknown Nonstationarity](https://proceedings.neurips.cc/paper_files/paper/2023/hash/19a567abaec3990cb40d7a013556fecd-Abstract-Conference.html). *Advances in Neural Information Processing Systems, 2024*.
+*	HUANG B, ZHANG K, ZHANG J, et al. 2019. [Causal Discovery from Heterogeneous/Nonstationary Data with Independent Changes](https://www.jmlr.org/papers/v21/19-232.html). *arXiv: Learning, 2019*.
+*	ZHANG K, GONG M, STOJANOV P, et al. 2020. [Domain Adaptation as a Problem of Inference on Graphical Models](https://proceedings.neurips.cc/paper/2020/hash/3430095c577593aad3c39c701712bcfe-Abstract.html). *Neural Information Processing Systems, 2020*.
+
 <h3 id="trajectory_similarity_learning">基于时空语义理解的轨迹相似学习</h2> 
 
 <h4 id="trajectory_clustering">时空轨迹聚类</h4> 93-106
 
+*	KRISHNA K, NARASIMHA MURTY M. 1999. [Genetic K-means algorithm](https://ieeexplore.ieee.org/abstract/document/764879/). *IEEE Transactions on Systems, Man and Cybernetics, Part B (Cybernetics), 1999*. 
+*	ESTER M, KRIEGEL H P, SANDER J, et al. 1996. [A density-based algorithm for discovering clusters in large spatial Databases with Noise](https://cdn.aaai.org/KDD/1996/KDD96-037.pdf?source=post_page---------------------------). *Knowledge Discovery and Data Mining, 1996*.
+*	Ankerst M, Breunig M M, Kriegel H P, et al. 1999. [OPTICS: Ordering points to identify the clustering structure](https://dl.acm.org/doi/abs/10.1145/304181.304187). *ACM Sigmod record, 1999*.
+* Zhang T, Ramakrishnan R, Livny M. 1996. [BIRCH: an efficient data clustering method for very large databases](https://dl.acm.org/doi/abs/10.1145/235968.233324). *ACM sigmod record, 1996*.
+* Wang W, Yang J, Muntz R. 1997. [STING: A statistical information grid approach to spatial data mining](http://cs.bme.hu/~marti/adatbanya/STING.pdf). *Vldb. 1997*.
+*	BIRANT D, KUT A. 2007. [ST-DBSCAN: An algorithm for clustering spatial–temporal data](https://www.sciencedirect.com/science/article/pii/S0169023X06000218). *Data &amp; Knowledge Engineering, 2007*. 
+* Malhan A, Gunturi V M V, Naik V. 2017. [ST-OPTICS: A spatial-temporal clustering algorithm with time recommendations for taxi services](https://repository.iiitd.edu.in/jspui/handle/123456789/529). *2017*.
+*	LI X, ZHAO K, CONG G, et al. 2018. [Deep Representation Learning for Trajectory Similarity Computation](https://ieeexplore.ieee.org/abstract/document/8509283/). *2018 IEEE 34th International Conference on Data Engineering (ICDE). 2018*.
+*	YUE M, LI Y, YANG H, et al. 2020. [DETECT: Deep Trajectory Clustering for Mobility-Behavior Analysis](https://ieeexplore.ieee.org/abstract/document/9006561/). *Cornell University - arXiv, 2020*.
+*	FANG Z, DU Y, CHEN L, et al. 2021. [E2DTC: An End to End Deep Trajectory Clustering Framework via Self-Training](https://ieeexplore.ieee.org/abstract/document/9458936). *2021 IEEE 37th International Conference on Data Engineering (ICDE). 2021*.
+* Si J, Yang J, Xiang Y, et al. 2024. [ConDTC: Contrastive Deep Trajectory Clustering for Fine-grained Mobility Pattern Mining](https://ieeexplore.ieee.org/abstract/document/10433249). *IEEE Transactions on Big Data, 2024*.
+*	JIANG Q, LIU Y, DING Z, et al. 2023. [Behavior pattern mining based on spatiotemporal trajectory multidimensional information fusion](https://www.sciencedirect.com/science/article/pii/S1000936122002503). *Chinese Journal of Aeronautics, 2023*.
+*	WANG W, XIA F, NIE H, et al. 2021. [Vehicle Trajectory Clustering Based on Dynamic Representation Learning of Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/9115819/). *IEEE Transactions on Intelligent Transportation Systems, 2021*.
+*	HOSEINI F, RAHROVANI S, CHEHREGHANI M H. 2021. [Vehicle Motion Trajectories Clustering via Embedding Transitive Relations](). *2021 IEEE International Intelligent Transportation Systems Conference (ITSC). 2021*. 
+
 <h4 id="trajectory_classification">时空轨迹分类</h4> 107-121
+
+*	OH J, LIM K T, CHUNG Y S. 2021. [TrajNet: An Efficient and Effective Neural Network for Vehicle Trajectory Classification](https://www.scitepress.org/Papers/2021/102433/102433.pdf). *Proceedings of the 10th International Conference on Pattern Recognition Applications and Methods 2021*.
+*	FREITAS N C A de, DA SILVA T L C, DE MACÊDO J A F, et al. 2021. [Using deep learning for trajectory classification in imbalanced dataset](https://journals.flvc.org/FLAIRS/article/view/128368). *The International FLAIRS Conference Proceedings 2021*.
+* GUO T, XIE L. 2022. [Research on Ship Trajectory Classification Based on a Deep Convolutional Neural Network](https://www.mdpi.com/2077-1312/10/5/568). *Journal of Marine Science and Engineering 2022*.
+* BAE K, LEE S, LEE W. 2022. [Transformer Networks for Trajectory Classification](https://ieeexplore.ieee.org/abstract/document/9736500/). *2022 IEEE International Conference on Big Data and Smart Computing (BigComp) 2022*.
+* Liang Y, Ouyang K, Wang Y, et al. 2022. [TrajFormer: Efficient trajectory classification with transformers](https://dl.acm.org/doi/abs/10.1145/3511808.3557481). *Proceedings of the 31st ACM International Conference on Information & Knowledge Management 2022*.
+*	JIN C, TAO T, LUO X, et al. 2020. [S2N2: An Interpretive Semantic Structure Attention Neural Network for Trajectory Classification](https://ieeexplore.ieee.org/abstract/document/9044862/). *IEEE Access, 2020*.
+*	FERRERO C A, PETRY L M, ALVARES L O, et al. 2020. [MasterMovelets: discovering heterogeneous movelets for multiple aspect trajectory classification](https://link.springer.com/article/10.1007/s10618-020-00676-x). *Data Mining and Knowledge Discovery, 2020*.
+*	MAKRIS A, KONTOPOULOS I, PSOMAKELIS E, et al. 2021. [Semi-supervised trajectory classification using convolutional auto-encoders](https://dl.acm.org/doi/abs/10.1145/3486637.3489492). *Proceedings of the 1st ACM SIGSPATIAL International Workshop on Animal Movement Ecology and Human Mobility. 2021*.
+*	AHMED U, SRIVASTAVA G, DJENOURI Y, et al. 2021. [Knowledge graph based trajectory outlier detection in sustainable smart cities](https://www.sciencedirect.com/science/article/pii/S2210670721008453). *Sustainable Cities and Society, 2022*.
+*	LANDI C, SPINNATO F, GUIDOTTI R, et al.2023. [Geolet: An Interpretable Model for Trajectory Classification](https://link.springer.com/chapter/10.1007/978-3-031-30047-9_19). *Advances in Intelligent Data Analysis XXI,Lecture Notes in Computer Science. 2023*.
+*	HU X, HAN Y, GENG Z. 2021. [Novel Trajectory Representation Learning Method and Its Application to Trajectory-User Linking](https://ieeexplore.ieee.org/abstract/document/9478304/). *IEEE Transactions on Instrumentation and Measurement, 2021*.
+* Chen W, Li S, Huang C, et al. 2022. [Mutual distillation learning network for trajectory-user linking](https://arxiv.org/abs/2205.03773). *arXiv preprint 2022*.
+* Alsaeed M, Agrawal A, Papagelis M. 2023. [Trajectory-User Linking using Higher-order Mobility Flow Representations](https://ieeexplore.ieee.org/abstract/document/10214932/). *2023 24th IEEE International Conference on Mobile Data Management (MDM). IEEE 2023*.
+* Deng L, Sun H, Zhao Y, et al. 2023. [S2tul: A semi-supervised framework for trajectory-user linking](https://dl.acm.org/doi/abs/10.1145/3539597.3570410). *Proceedings of the sixteenth ACM international conference on web search and data mining 2023*.
+* Chen W, Huang C, Yu Y, et al. 2024. [Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks](https://dl.acm.org/doi/abs/10.1145/3635718). *ACM Transactions on Knowledge Discovery from Data 2024*.
 
 <h4 id="abnormal_identification">异常行为识别</h4> 122-133
 
+* KUMARAN SANTHOSH K, DOGRA D P, ROY P P, et al. 2022. [Vehicular Trajectory Classification and Traffic Anomaly Detection in Videos Using a Hybrid CNN-VAE Architecture](https://ieeexplore.ieee.org/abstract/document/9531567/). *IEEE Transactions on Intelligent Transportation Systems 2022*.
+* Wiederer J, Bouazizi A, Troina M, et al. 2022. [Anomaly detection in multi-agent trajectories for automated driving](https://proceedings.mlr.press/v164/wiederer22a.html). *Conference on Robot Learning. PMLR 2022*.
+*	SU Y, YAO D, TIAN T, et al. 2023. [Transfer learning for region-wide trajectory outlier detection](https://ieeexplore.ieee.org/abstract/document/10179898/). *IEEE Access 2023*. 
+*	XIE L, GUO T, CHANG J, et al. 2023. [A Novel Model for Ship Trajectory Anomaly Detection Based on Gaussian Mixture Variational Autoencoder](https://ieeexplore.ieee.org/abstract/document/10151936/). *IEEE Transactions on Vehicular Technology 2023*.
+* Han X, Cheng R, Ma C, et al. 2022. [DeepTEA: Effective and efficient online time-dependent trajectory outlier detection](https://dl.acm.org/doi/abs/10.14778/3523210.3523225). *Proceedings of the VLDB Endowment 2022*.
+* Singh S K, Fowdur J S, Gawlikowski J, et al. 2021. [Leveraging Graph and Deep Learning Uncertainties to Detect Anomalous Trajectories](https://arxiv.org/abs/2107.01557). *arXiv preprint 2021*.
+*	SHI Y, WANG D, NI Z, et al. 2022. [A Sequential Pattern Mining Based Approach to Adaptively Detect Anomalous Paths in Floating Vehicle Trajectories](https://ieeexplore.ieee.org/abstract/document/9762798/). *IEEE Transactions on Intelligent Transportation Systems 2022*.
+* Djenouri Y, Djenouri D, Lin J C W. 2021. [Trajectory outlier detection: New problems and solutions for smart cities](https://dl.acm.org/doi/abs/10.1145/3425867). *ACM Transactions on Knowledge Discovery from Data (TKDD) 2021*.
+*	MAO J, LIU J, JIN C, et al. 2021. [Feature Grouping–based Trajectory Outlier Detection over Distributed Streams](https://dl.acm.org/doi/abs/10.1145/3444753). *ACM Transactions on Intelligent Systems and Technology 2021*.
+*	AHMED U, SRIVASTAVA G, DJENOURI Y, et al. 2022. [Deviation Point Curriculum Learning for Trajectory Outlier Detection in Cooperative Intelligent Transport Systems](https://ieeexplore.ieee.org/abstract/document/9646484/). *IEEE Transactions on Intelligent Transportation Systems, 2022*.
+* Li C, Feng G, Jia Y, et al. 2023. [RETAD: Vehicle Trajectory Anomaly Detection Based on Reconstruction Error](https://www.igi-global.com/pdf.aspx?tid=316460&ptid=315821&ctid=4&oa=true&isxn=9781668488157). *International Journal of Data Warehousing & Mining 2023*.
+*	GAO L, XU C, WANG F, et al. 2023. [Flight data outlier detection by constrained LSTM-autoencoder](). *Wireless Networks, 2023*.
 
 <h3 id="trajectory_prediction_learning">基于时空语义理解的轨迹预测学习</h3> 
 
 <h4 id="space_time_trajectory_prediction">时空轨迹预测</h4> 134-174
+
+*	WANG H, SHEN H, OUYANG W, et al. 2018. [Exploiting POI-Specific Geographical Influence for Point-of-Interest Recommendation](https://www.ijcai.org/proceedings/2018/0539.pdf). *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence 2018*.
+*	FENG S, CONG G, AN B, et al. 2022. [POI2Vec: Geographical Latent Representation for Predicting Future Visitors](https://ojs.aaai.org/index.php/AAAI/article/view/10500). *Proceedings of the AAAI Conference on Artificial Intelligence 2022*.
+*	RENDLE S, FREUDENTHALER C, SCHMIDT-THIEME L. 2010. [Factorizing personalized Markov chains for next-basket recommendation](https://dl.acm.org/doi/abs/10.1145/1772690.1772773). *Proceedings of the 19th international conference on World wide web 2010*.
+*	ZHAO K, ZHANG Y, YIN H, et al. 2020. [Discovering Subsequence Patterns for Next POI Recommendation](https://www.ijcai.org/Proceedings/2020/0445.pdf). *Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence 2020*.
+* TANG Q, YANG M, YANG Y. 2019. [ST-LSTM: A Deep Learning Approach Combined Spatio-Temporal Features for Short-Term Forecast in Rail Transit](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/8392592). *Journal of Advanced Transportation 2019*.
+* Dai S, Yu Y, Fan H, et al. 2022. [Spatio-temporal representation learning with social tie for personalized POI recommendation](https://link.springer.com/article/10.1007/s41019-022-00180-w). *Data Science and Engineering 2022*.
+*	LI M, ZHENG W, XIAO Y, et al. 2020. [An Adaptive POI Recommendation Algorithm by Integrating User’s Temporal and Spatial Features in LBSNs](https://dl.acm.org/doi/abs/10.1145/3414274.3414494). *Proceedings of the 3rd International Conference on Data Science and Information Technology 2020*.
+*	TAHMASBI H, JALALI M, SHAKERI H. 2021. [Modeling user preference dynamics with coupled tensor factorization for social media recommendation](https://link.springer.com/article/10.1007/s12652-020-02714-4). *Journal of Ambient Intelligence and Humanized Computing 2021*.
+* Wang X, Sun G, Fang X, et al. 2022. [Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation](https://www.ijcai.org/proceedings/2022/0490.pdf). *IJCAI. 2022*.
+*	PARVEEN R, VARMA N S. 2021. [Friend’s recommendation on social media using different algorithms of machine learning](https://www.sciencedirect.com/science/article/pii/S2666285X21000406). *Global Transitions Proceedings 2021*. 
+*	SARASWATHI K, MOHANRAJ V, SURESH Y, et al. 2023. [Deep Learning Enabled Social Media Recommendation Based on User Comments](https://cdn.techscience.cn/ueditor/files/csse/TSP_CSSE-44-2/TSP_CSSE_27987/TSP_CSSE_27987.pdf). *Computer Systems Science and Engineering 2023*.
+*	LIU H, TONG Y, HAN J, et al. 2022. [Incorporating Multi-Source Urban Data for Personalized and Context-Aware Multi-Modal Transportation Recommendation](https://ieeexplore.ieee.org/abstract/document/9063461/). *IEEE Transactions on Knowledge and Data Engineering 2022*.
+*	ZHU M, HU J, HAO H, et al. 2019. [Personalized Context-Aware Multi-Modal Transportation Recommendation](https://arxiv.org/abs/1910.12601). *arXiv: Computers and Society 2019*.
+*	LIU Y, LI K, YAN D, et al. 2023. [The prediction of disaster risk paths based on IECNN model](https://link.springer.com/article/10.1007/s11069-023-05855-9). *Natural Hazards 2023*. 
+*	ELTEHEWY R, ABOUELFARAG A, SALEH S N. 2023. [Efficient Classification of Imbalanced Natural Disasters Data Using Generative Adversarial Networks for Data Augmentation](https://www.mdpi.com/2220-9964/12/6/245). *ISPRS International Journal of Geo-Information 2023*.
+* Zeng C, Bertsimas D. 2023. [Global flood prediction: a multimodal machine learning approach](https://arxiv.org/abs/2301.12548). *arXiv preprint arXiv:2301.12548 2023*.
+*	DIKSHIT A, PRADHAN B, ALAMRI A M. 2021. [Long lead time drought forecasting using lagged climate variables and a stacked long short-term memory model](https://www.sciencedirect.com/science/article/pii/S0048969720361672). *Science of The Total Environment 2021*.
+*	MOKHTAR A, JALALI M, HE H, et al. 2021. [Estimation of SPEI Meteorological Drought Using Machine Learning Algorithms](https://ieeexplore.ieee.org/abstract/document/9408611/). *IEEE Access 2021*.
+[152]	DANANDEH MEHR A, RIKHTEHGAR GHIASI A, YASEEN Z M, et al. A novel intelligent deep learning predictive model for meteorological drought forecasting[J/OL]. Journal of Ambient Intelligence and Humanized Computing, 2023: 10441-10455. http://dx.doi.org/10.1007/s12652-022-03701-7. DOI:10.1007/s12652-022-03701-7.
+[153]	BI K, XIE L, ZHANG H, et al. Pangu-Weather: A 3D High-Resolution Model for Fast and Accurate Global Weather Forecast[J]. 2022.
+[154]	BI K, XIE L, ZHANG H, et al. Accurate medium-range global weather forecasting with 3D neural networks[J].
+[155]	XU Z, WEI X, HAO J, et al. DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network[J].
+[156]	LAM R, SANCHEZ-GONZALEZ A, WILLSON M, et al. GraphCast: Learning skillful medium-range global weather forecasting[J]. 2022.
+[157]	PATHAK J, SUBRAMANIAN S, HARRINGTON P, et al. FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators[J].
+[158]	KURTH T, SUBRAMANIAN S, HARRINGTON P, et al. FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators[J]. 2022.
+[159]	WEYN J A, DURRAN D R, CARUANA R, et al. Sub‐Seasonal Forecasting With a Large Ensemble of Deep‐Learning Weather Prediction Models[J/OL]. Journal of Advances in Modeling Earth Systems, 2021. http://dx.doi.org/10.1029/2021ms002502. DOI:10.1029/2021ms002502.
+[160]	NI Q, WANG Y, FANG Y. GE-STDGN: a novel spatio-temporal weather prediction model based on graph evolution[J/OL]. Applied Intelligence, 2022: 7638-7652. http://dx.doi.org/10.1007/s10489-021-02824-2. DOI:10.1007/s10489-021-02824-2.
+[161]	HU Y, CHEN L, WANG Z, et al. SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation[J]. 2022.
+[162]	NGUYEN T, BRANDSTETTER J, KAPOOR A, et al. ClimaX: A foundation model for weather and climate[J]. 2023.
+[163]	CHEN K, HAN T, GONG J, et al. FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead[J]. 2023.
+[164]	DANG W, WANG H, PAN S, et al. Predicting Human Mobility via Graph Convolutional Dual-attentive Networks[C/OL]//Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining. 2022. http://dx.doi.org/10.1145/3488560.3498400. DOI:10.1145/3488560.3498400.
+[165]	FRITZ C, DORIGATTI E, RÜGAMER D. Combining graph neural networks and spatio-temporal disease models to improve the prediction of weekly COVID-19 cases in Germany[J/OL]. Scientific Reports, 2022. http://dx.doi.org/10.1038/s41598-022-07757-5. DOI:10.1038/s41598-022-07757-5.
+[166]	NIRAULA P, MATEU J, CHAUDHURI S. A Bayesian Machine Learning Approach for Spatio-Temporal Prediction of COVID-19 Cases[Z/OL]. (2021-07). http://dx.doi.org/10.21203/rs.3.rs-636809/v1. DOI:10.21203/rs.3.rs-636809/v1.
+[167]	LIU Y, RONG Y, GUO Z, et al. Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax[J]. 2022.
+[168]	MA Y, GERARD P, TIAN Y, et al. Hierarchical Spatio-Temporal Graph Neural Networks for Pandemic Forecasting[J].
+[169]	LI Y, FAN Z, ZHANG J, et al. Heterogeneous Hypergraph Neural Network for Friend Recommendation with Human Mobility[J].
+[170]	PAN X, CAI X, SONG K, et al. Location Recommendation Based on Mobility Graph With Individual and Group Influences[J/OL]. IEEE Transactions on Intelligent Transportation Systems, 2023: 8409-8420. http://dx.doi.org/10.1109/tits.2022.3149869. DOI:10.1109/tits.2022.3149869.
+[171]	TERROSO-SÁENZ F, MUÑOZ A. Nation-wide human mobility prediction based on graph neural networks[J/OL]. Applied Intelligence, 2022: 4144-4160. http://dx.doi.org/10.1007/s10489-021-02645-3. DOI:10.1007/s10489-021-02645-3.
+[172]	KONG X, WANG K, HOU M, et al. Exploring Human Mobility for Multi-Pattern Passenger Prediction: A Graph Learning Framework[J].
+[173]	SOLATORIO AivinV. GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT)[J]. 2023.
+[174]	CHOYA T, TAMURA N, KATAYAMA S, et al. CrowdFlowTransformer: Capturing Spatio-Temporal Dependence for Forecasting Human Mobility[C/OL]//2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops). 2023. 
 
 * 个推1-5
 * 以下为当前文中34、37、40、36、38、39、41、42
