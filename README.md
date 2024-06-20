@@ -63,7 +63,7 @@
 *	Su Z, Liu T, Hao X, et al. 2023. [Spatial-temporal graph convolutional networks for traffic flow prediction considering multiple traffic parameters](https://link.springer.com/article/10.1007/s11227-023-05383-0). *The Journal of Supercomputing 2023*. 
 *	Zhang K, Feng X, Wu L, et al. 2022. [Trajectory prediction for autonomous driving using spatial-temporal graph attention transformer](https://ieeexplore.ieee.org/abstract/document/9768029/). *IEEE Transactions on Intelligent Transportation Systems, 2022*.
 
-<h3 id="probabilistic_deep_learning">概率深度学习</h3> 19-36
+<h3 id="probabilistic_deep_learning">概率深度学习</h3> 
 
 * Kingma D P, Welling M. 2013. [Auto-encoding variational bayes](https://arxiv.org/abs/1312.6114). *arXiv preprint 2013*.
 * Ramchandran S, Tikhonov G, Lönnroth O, et al. 2024. [Learning conditional variational autoencoders with missing covariates](https://www.sciencedirect.com/science/article/pii/S0031320323008105). *Pattern Recognition 2024*.
@@ -84,7 +84,7 @@
 * Mescheder L, Nowozin S, Geiger A. 2017. [Adversarial variational bayes: Unifying variational autoencoders and generative adversarial networks](https://proceedings.mlr.press/v70/mescheder17a.html?ref=https://githubhelp.com). *International conference on machine learning. PMLR, 2017*.
 * Makhzani A, Shlens J, Jaitly N, et al. 2015. [Adversarial autoencoders](https://arxiv.org/abs/1511.05644). *arXiv preprint arXiv:1511.05644, 2015*.
 
-<h3 id="foundation_model_based_learning">基于底座模型的学习（Foundation Model-based Learning）</h3> 37-43
+<h3 id="foundation_model_based_learning">基于底座模型的学习（Foundation Model-based Learning）</h3> 
 
 *	BROWN T B, MANN B, RYDER N, et al. 2020. [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html). *arXiv: Computation and Language, 2020*.
 *	Zhou T, Niu P, Sun L, et al. 2023. [One fits all: Power general time series analysis by pretrained lm](https://proceedings.neurips.cc/paper_files/paper/2023/hash/86c17de05579cde52025f9984e6e2ebb-Abstract-Conference.html). *Advances in neural information processing systems, 2023*.
@@ -96,11 +96,11 @@
 
 <h2 id="core_tasks">时空轨迹语义理解核心任务</h2> 
 
-<h3 id="element_representation_learning">时空要素表示学习</h3> 44
+<h3 id="element_representation_learning">时空要素表示学习</h3> 
 
 * BENGIO Y, COURVILLE A, VINCENT P. 2013. [Representation Learning: A Review and New Perspectives](). *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2013*.
 
-<h4 id="deep_representation_learning">深度表示学习（Deep Representation Learning）</h3>  45-72
+<h4 id="deep_representation_learning">深度表示学习（Deep Representation Learning）</h3>  
 
 *	QUAN R, ZHU L, WU Y, et al. 2021. [Holistic LSTM for Pedestrian Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/9361440/). *IEEE Transactions on Image Processing, 2021*.
 * LIN L, LI W, BI H, et al. 2022. [Vehicle Trajectory Prediction Using LSTMs With Spatial–Temporal Attention Mechanisms](https://ieeexplore.ieee.org/abstract/document/9349962/). *IEEE Intelligent Transportation Systems Magazine, 2022*.
@@ -131,7 +131,7 @@
 * Deng L, Zhao Y, Fu Z, et al. 2022. [Efficient trajectory similarity computation with contrastive learning](https://dl.acm.org/doi/abs/10.1145/3511808.3557308). *Proceedings of the 31st ACM International Conference on Information & Knowledge Management. 2022*.
 * Chen Z, Zhang D, Feng S, et al. 2024. [KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/28672). *Proceedings of the AAAI Conference on Artificial Intelligence 2024*.
 
-<h4 id="disentangled_representation_learning">解耦表示学习（Disentangled Representation Learning）</h3> 73-86
+<h4 id="disentangled_representation_learning">解耦表示学习（Disentangled Representation Learning）</h3> 
 
 *	BENGIO Y, LAMBLIN P, POPOVICI D, et al. 2007. [Greedy Layer-Wise Training of Deep Networks](https://proceedings.neurips.cc/paper/2006/hash/5da713a690c067105aeb2fae32403405-Abstract.html). *Advances in Neural Information Processing Systems 19 2007*.
 * Higgins I, Amos D, Pfau D, et al. 2018. [Towards a definition of disentangled representations](https://arxiv.org/abs/1812.02230). *arXiv preprint arXiv:1812.02230 2018*.
@@ -148,7 +148,7 @@
 *	QIN Y, GAO C, WANG Y, et al. 2022. [Disentangling Geographical Effect for Point-of-Interest Recommendation](https://ieeexplore.ieee.org/abstract/document/9947308/). *IEEE Transactions on Knowledge and Data Engineering 2022*.
 * Tao H, Zeng J, Wang Z, et al. 2023. [Next POI Recommendation Based on Spatial and Temporal Disentanglement Representation](). *2023 IEEE International Conference on Web Services (ICWS). IEEE 2023*.
 
-<h4 id="causal_representation_learning">因果表示学习（Disentangled Representation Learning）</h3> 87-92
+<h4 id="causal_representation_learning">因果表示学习（Disentangled Representation Learning）</h3> 
 
 *	SWANSON N R, GRANGER C W J. 1997. [Impulse Response Functions Based on a Causal Approach to Residual Orthogonalization in Vector Autoregressions](https://www.tandfonline.com/doi/abs/10.1080/01621459.1997.10473634). *Journal of the American Statistical Association 1997*.
 * HYVÄRINEN A, ZHANG K, SHIMIZU S, et al. 2010. [Estimation of a Structural Vector Autoregression Model Using Non-Gaussianity](https://www.jmlr.org/papers/volume11/hyvarinen10a/hyvarinen10a.pdf). *Journal of Machine Learning Research 2010*.
@@ -159,7 +159,7 @@
 
 <h3 id="trajectory_similarity_learning">基于时空语义理解的轨迹相似学习</h2> 
 
-<h4 id="trajectory_clustering">时空轨迹聚类</h4> 93-106
+<h4 id="trajectory_clustering">时空轨迹聚类</h4> 
 
 *	KRISHNA K, NARASIMHA MURTY M. 1999. [Genetic K-means algorithm](https://ieeexplore.ieee.org/abstract/document/764879/). *IEEE Transactions on Systems, Man and Cybernetics, Part B (Cybernetics), 1999*. 
 *	ESTER M, KRIEGEL H P, SANDER J, et al. 1996. [A density-based algorithm for discovering clusters in large spatial Databases with Noise](https://cdn.aaai.org/KDD/1996/KDD96-037.pdf?source=post_page---------------------------). *Knowledge Discovery and Data Mining, 1996*.
@@ -176,7 +176,7 @@
 *	WANG W, XIA F, NIE H, et al. 2021. [Vehicle Trajectory Clustering Based on Dynamic Representation Learning of Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/9115819/). *IEEE Transactions on Intelligent Transportation Systems, 2021*.
 *	HOSEINI F, RAHROVANI S, CHEHREGHANI M H. 2021. [Vehicle Motion Trajectories Clustering via Embedding Transitive Relations](). *2021 IEEE International Intelligent Transportation Systems Conference (ITSC). 2021*. 
 
-<h4 id="trajectory_classification">时空轨迹分类</h4> 107-121
+<h4 id="trajectory_classification">时空轨迹分类</h4> 
 
 *	OH J, LIM K T, CHUNG Y S. 2021. [TrajNet: An Efficient and Effective Neural Network for Vehicle Trajectory Classification](https://www.scitepress.org/Papers/2021/102433/102433.pdf). *Proceedings of the 10th International Conference on Pattern Recognition Applications and Methods 2021*.
 *	FREITAS N C A de, DA SILVA T L C, DE MACÊDO J A F, et al. 2021. [Using deep learning for trajectory classification in imbalanced dataset](https://journals.flvc.org/FLAIRS/article/view/128368). *The International FLAIRS Conference Proceedings 2021*.
@@ -194,7 +194,7 @@
 * Deng L, Sun H, Zhao Y, et al. 2023. [S2tul: A semi-supervised framework for trajectory-user linking](https://dl.acm.org/doi/abs/10.1145/3539597.3570410). *Proceedings of the sixteenth ACM international conference on web search and data mining 2023*.
 * Chen W, Huang C, Yu Y, et al. 2024. [Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks](https://dl.acm.org/doi/abs/10.1145/3635718). *ACM Transactions on Knowledge Discovery from Data 2024*.
 
-<h4 id="abnormal_identification">异常行为识别</h4> 122-133
+<h4 id="abnormal_identification">异常行为识别</h4> 
 
 * KUMARAN SANTHOSH K, DOGRA D P, ROY P P, et al. 2022. [Vehicular Trajectory Classification and Traffic Anomaly Detection in Videos Using a Hybrid CNN-VAE Architecture](https://ieeexplore.ieee.org/abstract/document/9531567/). *IEEE Transactions on Intelligent Transportation Systems 2022*.
 * Wiederer J, Bouazizi A, Troina M, et al. 2022. [Anomaly detection in multi-agent trajectories for automated driving](https://proceedings.mlr.press/v164/wiederer22a.html). *Conference on Robot Learning. PMLR 2022*.
@@ -211,7 +211,7 @@
 
 <h3 id="trajectory_prediction_learning">基于时空语义理解的轨迹预测学习</h3> 
 
-<h4 id="space_time_trajectory_prediction">时空轨迹预测</h4> 134-174
+<h4 id="space_time_trajectory_prediction">时空轨迹预测</h4> 
 
 *	WANG H, SHEN H, OUYANG W, et al. 2018. [Exploiting POI-Specific Geographical Influence for Point-of-Interest Recommendation](https://www.ijcai.org/proceedings/2018/0539.pdf). *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence 2018*.
 *	FENG S, CONG G, AN B, et al. 2022. [POI2Vec: Geographical Latent Representation for Predicting Future Visitors](https://ojs.aaai.org/index.php/AAAI/article/view/10500). *Proceedings of the AAAI Conference on Artificial Intelligence 2022*.
@@ -243,7 +243,7 @@
 * Hu Y, Chen L, Wang Z, et al. 2023. [SwinVRNN: A Data‐Driven Ensemble Forecasting Model via Learned Distribution Perturbation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211). *Journal of Advances in Modeling Earth Systems 2023*.
 * Nguyen T, Brandstetter J, Kapoor A, et al. 2023. [Climax: A foundation model for weather and climate](https://arxiv.org/abs/2301.10343). *arXiv preprint 2023*.
 * Chen K, Han T, Gong J, et al. 2023. [Fengwu: Pushing the skillful global medium-range weather forecast beyond 10 days lead](https://arxiv.org/abs/2304.02948). *arXiv preprint 2023*.
-*	DANG W, WANG H, PAN S, et al. 2022. [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](). *Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining 2022*.
+*	DANG W, WANG H, PAN S, et al. 2022. [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/abs/10.1145/3488560.3498400). *Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining 2022*.
 *	FRITZ C, DORIGATTI E, RÜGAMER D. 2022. [Combining graph neural networks and spatio-temporal disease models to improve the prediction of weekly COVID-19 cases in Germany](https://www.nature.com/articles/s41598-022-07757-5). *Scientific Reports 2022*. 
 * Niraula P, Mateu J, Chaudhuri S. 2022. [A Bayesian machine learning approach for spatio-temporal prediction of COVID-19 cases](https://link.springer.com/article/10.1007/s00477-021-02168-w). *Stochastic Environmental Research and Risk Assessment 2022*.
 * Liu Y, Rong Y, Guo Z, et al. 2023. [Human mobility modeling during the COVID-19 pandemic via deep graph diffusion infomax](https://ojs.aaai.org/index.php/AAAI/article/view/26678). *Proceedings of the AAAI Conference on Artificial Intelligence 2023*.
@@ -255,8 +255,7 @@
 * Solatorio A V. 2023. [GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT)](https://dl.acm.org/doi/abs/10.1145/3615894.3628499). *Proceedings of the 1st International Workshop on the Human Mobility Prediction Challenge. 2023*.
 *	CHOYA T, TAMURA N, KATAYAMA S, et al. 2023. [CrowdFlowTransformer: Capturing Spatio-Temporal Dependence for Forecasting Human Mobility](https://ieeexplore.ieee.org/abstract/document/10150301/). *2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) 2023*. 
 
-
-<h4 id="space_time_event_prediction">时空事件预测</h4> 175-202
+<h4 id="space_time_event_prediction">时空事件预测</h4> 
 
 *	XU L, CHEN N, CHEN Z, et al. 2021. [Spatiotemporal forecasting in earth system science: Methods, uncertainties, predictability and future directions](https://www.sciencedirect.com/science/article/pii/S0012825221003299). *Earth-Science Reviews 2021*.
 * Yang G, Yu H, Xi H. 2022. [A Spatio-Temporal Traffic Flow Prediction Method Based on Dynamic Graph Convolution Network](https://ieeexplore.ieee.org/abstract/document/10033842). *2022 34th Chinese Control and Decision Conference (CCDC). IEEE, 2022*.
@@ -278,52 +277,70 @@
 *	HUANG Z, MA J, DONG Y, et al. 2022. [Empowering Next POI Recommendation with Multi-Relational Modeling](https://dl.acm.org/doi/abs/10.1145/3477495.3531801). *Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval 2022*.
 * LIU X, YANG Y, XU Y, et al. 2022. [Real-time POI recommendation via modeling long- and short-term user preferences](https://www.sciencedirect.com/science/article/pii/S092523122101434X). *Neurocomputing 2022*. 
 *	WANG Z, ZHU Y, ZHANG Q, et al. 2022. [Graph-Enhanced Spatial-Temporal Network for Next POI Recommendation](https://dl.acm.org/doi/abs/10.1145/3513092). *ACM Transactions on Knowledge Discovery from Data 2022*.
-[195]	LI Q, XU X, LIU X, et al. An Attention-Based Spatiotemporal GGNN for Next POI Recommendation[J].
-[196]	WANG X, FUKUMOTO F, LI J, et al. STaTRL: Spatial-temporal and text representation learning for POI recommendation[J].
-[197]	WANG K, WANG X, LU X. POI recommendation method using LSTM-attention in LBSN considering privacy protection[J/OL]. Complex &amp; Intelligent Systems, 2023: 2801-2812. http://dx.doi.org/10.1007/s40747-021-00440-8. DOI:10.1007/s40747-021-00440-8.
-[198]	Spatio-Temporal Hypergraph Learning for Next POI Recommendation[J].
-[199]	WANG X, FUKUMOTO F, CUI J, et al. EEDN: Enhanced Encoder-Decoder Network with Local and Global Context Learning for POI Recommendation[J].
-[200]	FU J, GAO R, YU Y, et al. Contrastive graph learning long and short-term interests for POI recommendation[J].
-[201]	LANG C, WANG Z, HE K, et al. POI recommendation based on a multiple bipartite graph network model[J/OL]. The Journal of Supercomputing, 2022, 78(7): 9782-9816. http://dx.doi.org/10.1007/s11227-021-04279-1. DOI:10.1007/s11227-021-04279-1.
-[202]	QIN Y, WU H, JU W, et al. A Diffusion model for POI recommendation[J]. 2023.
+* Li Q, Xu X, Liu X, et al. 2022. [An attention-based spatiotemporal GGNN for next POI recommendation](https://ieeexplore.ieee.org/abstract/document/9727181/). *IEEE Access 2022*.
+* Wang X, Fukumoto F, Li J, et al. 2023. [STaTRL: Spatial-temporal and text representation learning for POI recommendation](https://link.springer.com/article/10.1007/s10489-022-03858-w). *Applied Intelligence 2023*.
+*	WANG K, WANG X, LU X. 2023. [POI recommendation method using LSTM-attention in LBSN considering privacy protection](https://link.springer.com/article/10.1007/s40747-021-00440-8). *Complex &amp; Intelligent Systems 2023*.
+* Yan X, Song T, Jiao Y, et al. 2023. [Spatio-temporal hypergraph learning for next POI recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591770). *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval 2023*.
+* Wang X, Fukumoto F, Cui J, et al. 2023. [Eedn: Enhanced encoder-decoder network with local and global context learning for poi recommendation](https://dl.acm.org/doi/abs/10.1145/3539618.3591678). *Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval 2023*.
+* Fu J, Gao R, Yu Y, et al. 2024. [Contrastive graph learning long and short-term interests for POI recommendation](https://www.sciencedirect.com/science/article/pii/S0957417423024338). *Expert Systems with Applications 2024*.
+*	LANG C, WANG Z, HE K, et al. 2022. [POI recommendation based on a multiple bipartite graph network model](https://link.springer.com/article/10.1007/s11227-021-04279-1). *The Journal of Supercomputing 2022*.
+* Qin Y, Wu H, Ju W, et al. 2023. [A diffusion model for poi recommendation](https://dl.acm.org/doi/abs/10.1145/3624475). *ACM Transactions on Information Systems 2023*.
 
+<h4 id="spatio_temporal_data_completion">时空数据补全</h4> 
 
-* 个推1-5
-* 以下为当前文中34、37、40、36、38、39、41、42
-* Dai S, Yu Y, Fan H, et al. 2022. [Spatio-temporal representation learning with social tie for personalized poi recommendation](https://link.springer.com/article/10.1007/s41019-022-00180-w). *Data Science and Engineering, 2022*.
-* Li M, Zheng W, Xiao Y, et al. 2020. [An Adaptive POI Recommendation Algorithm by Integrating User's Temporal and Spatial Features in LBSNs](https://dl.acm.org/doi/abs/10.1145/3414274.3414494). *Proceedings of the 3rd International conference on data science and information technology. 2020*.
-* Tahmasbi H, Jalali M, Shakeri H. 2021. [Modeling user preference dynamics with coupled tensor factorization for social media recommendation](https://link.springer.com/article/10.1007/s12652-020-02714-4). *Journal of Ambient Intelligence and Humanized Computing, 2021*.
-* Wang X, Sun G, Fang X, et al. 2022. [Modeling spatio-temporal neighbourhood for personalized point-of-interest recommendation](https://www.ijcai.org/proceedings/2022/490). *Proceedings of IJCAI. 2022*.
-* Parveen R, Varma N S. 2021. [Friend's recommendation on social media using different algorithms of machine learning](https://www.sciencedirect.com/science/article/pii/S2666285X21000406). *Global Transitions Proceedings, 2021*.
-* Saraswathi K, Mohanraj V, Suresh Y, et al. [Deep Learning Enabled Social Media Recommendation Based on User Comments](https://cdn.techscience.cn/ueditor/files/csse/TSP_CSSE-44-2/TSP_CSSE_27987/TSP_CSSE_27987.pdf). *Computer Systems Science & Engineering, 2023*.
-* Liu H, Tong Y, Han J, et al. 2020. [Incorporating multi-source urban data for personalized and context-aware multi-modal transportation recommendation](https://ieeexplore.ieee.org/abstract/document/9063461/). *IEEE Transactions on Knowledge and Data Engineering, 2020*.
-* Zhu M, Hu J, Pu Z, et al. 2019. [Personalized Context-Aware Multi-Modal Transportation Recommendation](https://arxiv.org/abs/1910.12601). *arXiv preprint 2019*.
+*	CHEN J, CHEN P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](https://ieeexplore.ieee.org/abstract/document/8078795/). *International Conference on Big Data 2017*.
+*	KONG X, ZHOU W, SHEN G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](https://www.sciencedirect.com/science/article/pii/S0950705122012849). *Knowledge-Based Systems 2023*.
+* Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](https://www.mdpi.com/2220-9964/12/1/13). *ISPRS International Journal of Geo-Information 2023*.
+* Xu D, Peng H, Wei C, et al. 2021. [Traffic state data imputation: An efficient generating method based on the graph aggregator](https://ieeexplore.ieee.org/abstract/document/9582618/). *IEEE Transactions on Intelligent Transportation Systems 2021*.
+* Psychogyios K, Ilias L, Ntanos C, et al. 2023. [Missing value imputation methods for electronic health records](https://ieeexplore.ieee.org/abstract/document/10057378/). *IEEE Access 2023*.
+*	YE Y, ZHANG S, YU J J Q. 2021. [Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-86362-3_20). *Lecture Notes in Computer Science, Artificial Neural Networks and Machine Learning – ICANN 2021*. 
+*	ZHAO D, ZHANG Y, WANG W, et al. 2023. [Car‐following trajectory data imputation with adversarial convolutional neural network](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12319). *IET Intelligent Transport Systems 2023*. 
+* Jiang L, Zhang T, Zuo Q, et al. 2022. [A deep learning framework for traffic data imputation considering spatiotemporal dependencies](https://ieeexplore.ieee.org/abstract/document/10101407/). *2022 IEEE 7th International Conference on Intelligent Transportation Engineering (ICITE). IEEE 2022*.
+* Zhao C, Song A, Du Y, et al. 2022. [TrajGAT: A map-embedded graph attention network for real-time vehicle trajectory imputation of roadside perception](https://www.sciencedirect.com/science/article/pii/S0968090X22002157). *Transportation research part C: emerging technologies 2022*.
+* Xu Y, Bazarjani A, Chi H, et al. 2023. [Uncovering the missing pattern: Unified framework towards trajectory imputation and prediction](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Uncovering_the_Missing_Pattern_Unified_Framework_Towards_Trajectory_Imputation_and_CVPR_2023_paper.html). *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*.
+* Qin K K, Ren Y, Shao W, et al. 2023. [Multiple-level point embedding for solving human trajectory imputation with prediction](https://dl.acm.org/doi/abs/10.1145/3582427). *ACM Transactions on Spatial Algorithms and Systems 2023*.
+*	XU X, LIN M, LUO X, et al. 2023. [HRST-LR: A Hessian Regularization Spatio-Temporal Low Rank Algorithm for Traffic Data Imputation](https://ieeexplore.ieee.org/abstract/document/10146198/). *IEEE Transactions on Intelligent Transportation Systems 2023*. 
 
+<h2 id="challenge_and_opportunities">新智能时代的时空轨迹语义理解的挑战与机遇</h2> 
 
-* 城感1
-* 以下为当前文中43、44、46、47
+*	王少华, 谢幸, 李勇, 等. 2024. [空间数据智能大模型研究--2024年中国空间数据智能战略发展白皮书](https://arxiv.org/abs/2405.19730).
 
+<h3 id="multimodal_data_processing">多模态数据处理</h3> 
 
+* LAHAT D, ADALI T, JUTTEN C. 2015. [Multimodal Data Fusion: An Overview of Methods, Challenges, and Prospects](https://ieeexplore.ieee.org/abstract/document/7214350/). *Proceedings of the IEEE 2015*.
+* Shao R, Yang C, Li Q, et al. 2023. [AllSpark: A Multimodal Spatio-Temporal General Intelligence Model with Thirteen Modalities](https://arxiv.org/abs/2401.00546). *arXiv preprint 2023*.
+* Chen Y, Zhao M, Bruzzone L. 2023. [Incomplete multimodal learning for remote sensing data fusion](https://arxiv.org/abs/2304.11381). *arXiv preprint 2023*.
+*	MIN J H, HAM S W, KIM D K, et al. 2023. [Deep Multimodal Learning for Traffic Speed Estimation Combining Dedicated Short-Range Communication and Vehicle Detection System Data](https://journals.sagepub.com/doi/abs/10.1177/03611981221130026). *Transportation Research Record: Journal of the Transportation Research Board 2023*.
+* Xiao H, Zhao Y, Zhang H. 2022. [Predict vessel traffic with weather conditions based on multimodal deep learning](https://www.mdpi.com/2077-1312/11/1/39). *Journal of Marine Science and Engineering 2022*.
+* Chen J, Zhang A. 2023. [On Hierarchical Disentanglement of Interactive Behaviors for Multimodal Spatiotemporal Data with Incompleteness](https://dl.acm.org/doi/abs/10.1145/3580305.3599448). *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2023*.
+* Zhou B, Wang P, Wan J, et al. 2022. [Decoupling and recoupling spatiotemporal representation for rgb-d-based motion recognition](). *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022*.
+* Zhao Y, Deng P, Liu J, et al. 2023. [Causal conditional hidden Markov model for multimodal traffic prediction](). *Proceedings of the AAAI Conference on Artificial Intelligence 2023*.
 
-<h4 id="spatio_temporal_data_completion">时空数据补全</h4> 203-214
+<h3 id="transparent_and_releasable">模型的透明可释</h3> 
 
-* 48、补全、补全4
-* Chen J, Chen P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](https://ieeexplore.ieee.org/abstract/document/8078795/). *2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA). IEEE, 2017*.
-* Kong X, Zhou W, Shen G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](https://www.sciencedirect.com/science/article/pii/S0950705122012849). *Knowledge-Based Systems, 2023*.
-* Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](https://www.mdpi.com/2220-9964/12/1/13). *ISPRS International Journal of Geo-Information, 2023*.
-
-
-<h2 id="challenge_and_opportunities">新智能时代的时空轨迹语义理解的挑战与机遇</h2> 215
-
-<h3 id="multimodal_data_processing">多模态数据处理</h3> 216-223
-
-<h3 id="transparent_and_releasable">模型的透明可释</h3> 224-227
+*	MA J, ZHOU C, CUI P, et al. 2019. [Learning Disentangled Representations for Recommendation](https://proceedings.neurips.cc/paper/2019/hash/a2186aa7c086b46ad4e8bf81e2a3a19b-Abstract.html). *Neural Information Processing Systems 2019*.
+* Karpathy A, Johnson J, Fei-Fei L. 2015. [Visualizing and understanding recurrent networks](https://arxiv.org/abs/1506.02078). *arXiv preprint 2015*.
+* Hupkes D, Veldhoen S, Zuidema W. 2018. [Visualisation and'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure](https://www.jair.org/index.php/jair/article/view/11196). *Journal of Artificial Intelligence Research 2018*.
+* Tenney I, Xia P, Chen B, et al. 2019. [What do you learn from context? probing for sentence structure in contextualized word representations](https://arxiv.org/abs/1905.06316). *arXiv preprint  2019*.
  
-<h3 id="open_semantic_modeling">开放语义建模</h3> 228-233
+<h3 id="open_semantic_modeling">开放语义建模</h3> 
 
-<h3 id="availability_and_resource_consumption">模型可用与资源消耗</h3> 234-237
+* Li Z, Xia L, Tang J, et al. 2024. [Urbangpt: Spatio-temporal large language models](https://arxiv.org/abs/2403.00813). *arXiv preprint 2024*.
+* Zhang S, Fu D, Liang W, et al. 2024. [Trafficgpt: Viewing, processing and interacting with traffic foundation models](https://www.sciencedirect.com/science/article/pii/S0967070X24000726). *Transport Policy 2024*.
+*	Guan Q, Ouyang J, Wu D, et al. 2024. [CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System](https://arxiv.org/abs/2405.14691). *arXiv preprint 2024*.
+* Singh A, Co-Reyes J D, Agarwal R, et al. 2023. [Beyond human data: Scaling self-training for problem-solving with language models](https://arxiv.org/abs/2312.06585). *arXiv preprint 2023*.
+* Liu R, Wei J, Liu F, et al. 2024. [Best practices and lessons learned on synthetic data for language models](https://arxiv.org/abs/2404.07503). *arXiv preprint 2024*.
+* Shumailov I, Shumaylov Z, Zhao Y, et al. 2023. [The curse of recursion: Training on generated data makes models forget](https://arxiv.org/abs/2305.17493). *arXiv preprint 2023*.
 
-<h3 id="trust_issues">伦理与信任问题</h3> 238-240
+<h3 id="availability_and_resource_consumption">模型可用与资源消耗</h3> 
 
+*	J. H, SHEN Y, WALLIS P, et al. 2021. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). *arXiv: Computation and Language 2021*.
+*	BELTAGY I, PETERS MatthewE, COHAN A. 2020. [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150). *arXiv: Computation and Language 2020*.
+*	DAI Z, YANG Z, YANG Y, et al. 2019. [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](). *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics 2019*.
+* VADERA S, AMEEN S. 2022. [Methods for Pruning Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9795013/). *IEEE Access 2022*. 
 
+<h3 id="trust_issues">伦理与信任问题</h3> 
 
+* Morris J X, Kuleshov V, Shmatikov V, et al. 2023. [Text embeddings reveal (almost) as much as text](https://arxiv.org/abs/2310.06816). *arXiv preprint 2023*.
+*	GARG N, SCHIEBINGER L, JURAFSKY D, et al. 2018. [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/doi/abs/10.1073/pnas.1720347115). *Proceedings of the National Academy of Sciences 2018*.
+* He J, Xia M, Fellbaum C, et al. 2022. [MABEL: Attenuating gender bias using textual entailment data](https://arxiv.org/abs/2210.14975). *arXiv preprint 2022*.
