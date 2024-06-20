@@ -55,7 +55,7 @@
 * Chen W, Liang Y, Zhu Y, et al. 2024. [Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond](https://arxiv.org/abs/2403.14151). *arXiv preprint 2024*.
 * LECUN Y, BENGIO Y, HINTON G. 2015. [Deep learning](https://www.nature.com/articles/nature14539). *Nature 2015*.
 
-<h3 id="deep_sequence_learning">时空图神经网络（Spatial-Temporal Graph Neural Networks）</h3> 14-18
+<h3 id="spatial_temporal_graph_neural_networks">时空图神经网络（Spatial-Temporal Graph Neural Networks）</h3> 
 
 *	Feng J, Li Y, Zhang C, et al. 2018. [Deepmove: Predicting human mobility with attentional recurrent networks](https://dl.acm.org/doi/abs/10.1145/3178876.3186058). *Proceedings of the 2018 world wide web conference 2018*.
 *	Gao J, Sharma R, Qian C, et al. 2021. [STAN: spatio-temporal attention network for pandemic prediction using real-world evidence](https://academic.oup.com/jamia/article-abstract/28/4/733/6118380). *Journal of the American Medical Informatics Association 2021*. 
@@ -63,7 +63,7 @@
 *	Su Z, Liu T, Hao X, et al. 2023. [Spatial-temporal graph convolutional networks for traffic flow prediction considering multiple traffic parameters](https://link.springer.com/article/10.1007/s11227-023-05383-0). *The Journal of Supercomputing 2023*. 
 *	Zhang K, Feng X, Wu L, et al. 2022. [Trajectory prediction for autonomous driving using spatial-temporal graph attention transformer](https://ieeexplore.ieee.org/abstract/document/9768029/). *IEEE Transactions on Intelligent Transportation Systems, 2022*.
 
-<h3 id="probabilistic_deep_learning">概率深度学习</h3> 
+<h3 id="probability_deep_learning">概率深度学习</h3> 
 
 * Kingma D P, Welling M. 2013. [Auto-encoding variational bayes](https://arxiv.org/abs/1312.6114). *arXiv preprint 2013*.
 * Ramchandran S, Tikhonov G, Lönnroth O, et al. 2024. [Learning conditional variational autoencoders with missing covariates](https://www.sciencedirect.com/science/article/pii/S0031320323008105). *Pattern Recognition 2024*.
