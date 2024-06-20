@@ -231,29 +231,62 @@
 * Zeng C, Bertsimas D. 2023. [Global flood prediction: a multimodal machine learning approach](https://arxiv.org/abs/2301.12548). *arXiv preprint arXiv:2301.12548 2023*.
 *	DIKSHIT A, PRADHAN B, ALAMRI A M. 2021. [Long lead time drought forecasting using lagged climate variables and a stacked long short-term memory model](https://www.sciencedirect.com/science/article/pii/S0048969720361672). *Science of The Total Environment 2021*.
 *	MOKHTAR A, JALALI M, HE H, et al. 2021. [Estimation of SPEI Meteorological Drought Using Machine Learning Algorithms](https://ieeexplore.ieee.org/abstract/document/9408611/). *IEEE Access 2021*.
-[152]	DANANDEH MEHR A, RIKHTEHGAR GHIASI A, YASEEN Z M, et al. A novel intelligent deep learning predictive model for meteorological drought forecasting[J/OL]. Journal of Ambient Intelligence and Humanized Computing, 2023: 10441-10455. http://dx.doi.org/10.1007/s12652-022-03701-7. DOI:10.1007/s12652-022-03701-7.
-[153]	BI K, XIE L, ZHANG H, et al. Pangu-Weather: A 3D High-Resolution Model for Fast and Accurate Global Weather Forecast[J]. 2022.
-[154]	BI K, XIE L, ZHANG H, et al. Accurate medium-range global weather forecasting with 3D neural networks[J].
-[155]	XU Z, WEI X, HAO J, et al. DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network[J].
-[156]	LAM R, SANCHEZ-GONZALEZ A, WILLSON M, et al. GraphCast: Learning skillful medium-range global weather forecasting[J]. 2022.
-[157]	PATHAK J, SUBRAMANIAN S, HARRINGTON P, et al. FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators[J].
-[158]	KURTH T, SUBRAMANIAN S, HARRINGTON P, et al. FourCastNet: Accelerating Global High-Resolution Weather Forecasting using Adaptive Fourier Neural Operators[J]. 2022.
-[159]	WEYN J A, DURRAN D R, CARUANA R, et al. Sub‐Seasonal Forecasting With a Large Ensemble of Deep‐Learning Weather Prediction Models[J/OL]. Journal of Advances in Modeling Earth Systems, 2021. http://dx.doi.org/10.1029/2021ms002502. DOI:10.1029/2021ms002502.
-[160]	NI Q, WANG Y, FANG Y. GE-STDGN: a novel spatio-temporal weather prediction model based on graph evolution[J/OL]. Applied Intelligence, 2022: 7638-7652. http://dx.doi.org/10.1007/s10489-021-02824-2. DOI:10.1007/s10489-021-02824-2.
-[161]	HU Y, CHEN L, WANG Z, et al. SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation[J]. 2022.
-[162]	NGUYEN T, BRANDSTETTER J, KAPOOR A, et al. ClimaX: A foundation model for weather and climate[J]. 2023.
-[163]	CHEN K, HAN T, GONG J, et al. FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead[J]. 2023.
-[164]	DANG W, WANG H, PAN S, et al. Predicting Human Mobility via Graph Convolutional Dual-attentive Networks[C/OL]//Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining. 2022. http://dx.doi.org/10.1145/3488560.3498400. DOI:10.1145/3488560.3498400.
-[165]	FRITZ C, DORIGATTI E, RÜGAMER D. Combining graph neural networks and spatio-temporal disease models to improve the prediction of weekly COVID-19 cases in Germany[J/OL]. Scientific Reports, 2022. http://dx.doi.org/10.1038/s41598-022-07757-5. DOI:10.1038/s41598-022-07757-5.
-[166]	NIRAULA P, MATEU J, CHAUDHURI S. A Bayesian Machine Learning Approach for Spatio-Temporal Prediction of COVID-19 Cases[Z/OL]. (2021-07). http://dx.doi.org/10.21203/rs.3.rs-636809/v1. DOI:10.21203/rs.3.rs-636809/v1.
-[167]	LIU Y, RONG Y, GUO Z, et al. Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax[J]. 2022.
-[168]	MA Y, GERARD P, TIAN Y, et al. Hierarchical Spatio-Temporal Graph Neural Networks for Pandemic Forecasting[J].
-[169]	LI Y, FAN Z, ZHANG J, et al. Heterogeneous Hypergraph Neural Network for Friend Recommendation with Human Mobility[J].
-[170]	PAN X, CAI X, SONG K, et al. Location Recommendation Based on Mobility Graph With Individual and Group Influences[J/OL]. IEEE Transactions on Intelligent Transportation Systems, 2023: 8409-8420. http://dx.doi.org/10.1109/tits.2022.3149869. DOI:10.1109/tits.2022.3149869.
-[171]	TERROSO-SÁENZ F, MUÑOZ A. Nation-wide human mobility prediction based on graph neural networks[J/OL]. Applied Intelligence, 2022: 4144-4160. http://dx.doi.org/10.1007/s10489-021-02645-3. DOI:10.1007/s10489-021-02645-3.
-[172]	KONG X, WANG K, HOU M, et al. Exploring Human Mobility for Multi-Pattern Passenger Prediction: A Graph Learning Framework[J].
-[173]	SOLATORIO AivinV. GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT)[J]. 2023.
-[174]	CHOYA T, TAMURA N, KATAYAMA S, et al. CrowdFlowTransformer: Capturing Spatio-Temporal Dependence for Forecasting Human Mobility[C/OL]//2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops). 2023. 
+*	DANANDEH MEHR A, RIKHTEHGAR GHIASI A, YASEEN Z M, et al. 2023. [A novel intelligent deep learning predictive model for meteorological drought forecasting](https://link.springer.com/article/10.1007/s12652-022-03701-7). *Journal of Ambient Intelligence and Humanized Computing, 2023*.
+* Bi K, Xie L, Zhang H, et al. 2022. [Pangu-weather: A 3d high-resolution model for fast and accurate global weather forecast](https://arxiv.org/abs/2211.02556). *arXiv preprint 2022*.
+* Bi K, Xie L, Zhang H, et al. 2023. [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3). *Nature 2023*.
+* Xu Z, Wei X, Hao J, et al. 2024. [DGFormer: a physics-guided station level weather forecasting model with dynamic spatial-temporal graph neural network](https://link.springer.com/article/10.1007/s10707-024-00511-1). *GeoInformatica 2024*.
+* Lam R, Sanchez-Gonzalez A, Willson M, et al. 2022. [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794). *arXiv preprint 2022*.
+* Pathak J, Subramanian S, Harrington P, et al. 2022. [Fourcastnet: A global data-driven high-resolution weather model using adaptive fourier neural operators](https://arxiv.org/abs/2202.11214). *arXiv preprint 2022*.
+* Kurth T, Subramanian S, Harrington P, et al. 2023. [Fourcastnet: Accelerating global high-resolution weather forecasting using adaptive fourier neural operators](https://dl.acm.org/doi/abs/10.1145/3592979.3593412). *Proceedings of the platform for advanced scientific computing conference 2023*.
+*	WEYN J A, DURRAN D R, CARUANA R, et al. 2021. [Sub‐Seasonal Forecasting With a Large Ensemble of Deep‐Learning Weather Prediction Models](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002502). *Journal of Advances in Modeling Earth Systems 2021*.
+*	NI Q, WANG Y, FANG Y. 2022. [GE-STDGN: a novel spatio-temporal weather prediction model based on graph evolution](https://link.springer.com/article/10.1007/s10489-021-02824-2). *Applied Intelligence 2022*. 
+* Hu Y, Chen L, Wang Z, et al. 2023. [SwinVRNN: A Data‐Driven Ensemble Forecasting Model via Learned Distribution Perturbation](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211). *Journal of Advances in Modeling Earth Systems 2023*.
+* Nguyen T, Brandstetter J, Kapoor A, et al. 2023. [Climax: A foundation model for weather and climate](https://arxiv.org/abs/2301.10343). *arXiv preprint 2023*.
+* Chen K, Han T, Gong J, et al. 2023. [Fengwu: Pushing the skillful global medium-range weather forecast beyond 10 days lead](https://arxiv.org/abs/2304.02948). *arXiv preprint 2023*.
+*	DANG W, WANG H, PAN S, et al. 2022. [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](). *Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining 2022*.
+*	FRITZ C, DORIGATTI E, RÜGAMER D. 2022. [Combining graph neural networks and spatio-temporal disease models to improve the prediction of weekly COVID-19 cases in Germany](https://www.nature.com/articles/s41598-022-07757-5). *Scientific Reports 2022*. 
+* Niraula P, Mateu J, Chaudhuri S. 2022. [A Bayesian machine learning approach for spatio-temporal prediction of COVID-19 cases](https://link.springer.com/article/10.1007/s00477-021-02168-w). *Stochastic Environmental Research and Risk Assessment 2022*.
+* Liu Y, Rong Y, Guo Z, et al. 2023. [Human mobility modeling during the COVID-19 pandemic via deep graph diffusion infomax](https://ojs.aaai.org/index.php/AAAI/article/view/26678). *Proceedings of the AAAI Conference on Artificial Intelligence 2023*.
+* Ma Y, Gerard P, Tian Y, et al. 2022. [Hierarchical spatio-temporal graph neural networks for pandemic forecasting](https://dl.acm.org/doi/abs/10.1145/3511808.3557350). *Proceedings of the 31st ACM International Conference on Information & Knowledge Management 2022*.
+* Li Y, Fan Z, Zhang J, et al. 2022. [Heterogeneous hypergraph neural network for friend recommendation with human mobility](https://dl.acm.org/doi/abs/10.1145/3511808.3557609). *Proceedings of the 31st ACM International Conference on Information & Knowledge Management 2022*.
+* PAN X, CAI X, SONG K, et al. 2023. [Location Recommendation Based on Mobility Graph With Individual and Group Influences](http://dx.doi.org/10.1109/tits.2022.3149869). *IEEE Transactions on Intelligent Transportation Systems 2023*. 
+*	TERROSO-SÁENZ F, MUÑOZ A. 2022. [Nation-wide human mobility prediction based on graph neural networks](http://dx.doi.org/10.1007/s10489-021-02645-3). *Applied Intelligence, 2022*. 
+* Kong X, Wang K, Hou M, et al. 2022. [Exploring human mobility for multi-pattern passenger prediction: A graph learning framework](https://ieeexplore.ieee.org/abstract/document/9709191/). *IEEE Transactions on Intelligent Transportation Systems 2022*.
+* Solatorio A V. 2023. [GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT)](https://dl.acm.org/doi/abs/10.1145/3615894.3628499). *Proceedings of the 1st International Workshop on the Human Mobility Prediction Challenge. 2023*.
+*	CHOYA T, TAMURA N, KATAYAMA S, et al. 2023. [CrowdFlowTransformer: Capturing Spatio-Temporal Dependence for Forecasting Human Mobility](https://ieeexplore.ieee.org/abstract/document/10150301/). *2023 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops) 2023*. 
+
+
+<h4 id="space_time_event_prediction">时空事件预测</h4> 175-202
+
+*	XU L, CHEN N, CHEN Z, et al. 2021. [Spatiotemporal forecasting in earth system science: Methods, uncertainties, predictability and future directions](https://www.sciencedirect.com/science/article/pii/S0012825221003299). *Earth-Science Reviews 2021*.
+* Yang G, Yu H, Xi H. 2022. [A Spatio-Temporal Traffic Flow Prediction Method Based on Dynamic Graph Convolution Network](https://ieeexplore.ieee.org/abstract/document/10033842). *2022 34th Chinese Control and Decision Conference (CCDC). IEEE, 2022*.
+* Cheng M, Jiang G P, Song Y, et al. 2022. [Dynamic Spatio-temporal traffic flow prediction based on multi fusion graph attention network](https://ieeexplore.ieee.org/abstract/document/9902776). *2022 41st Chinese Control Conference (CCC). IEEE, 2022*.
+* Zhou B, Zhou H, Wang W, et al. 2024. [HDM-GNN: A Heterogeneous Dynamic Multi-view Graph Neural Network for Crime Prediction](https://dl.acm.org/doi/abs/10.1145/3665141). *ACM Transactions on Sensor Networks 2024*.
+* Sun Y, Chen T, Yin H. 2023. [Spatial-temporal meta-path guided explainable crime prediction](https://link.springer.com/article/10.1007/s11280-023-01137-3). *World Wide Web, 2023*.
+* Liang W, Cao J, Chen L, et al. 2023. [Crime prediction with missing data via spatiotemporal regularized tensor decomposition](https://ieeexplore.ieee.org/abstract/document/10145042/). *IEEE Transactions on Big Data 2023*.
+* Wang C, Lin Z, Yang X, et al. 2022. [Hagen: Homophily-aware graph convolutional recurrent network for crime forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/20338). *Proceedings of the AAAI Conference on Artificial Intelligence 2022*.
+* Yang C. 2023. [TransCrimeNet: A Transformer-Based Model for Text-Based Crime Prediction in Criminal Networks](https://arxiv.org/abs/2311.09529). *arXiv preprint 2023*.
+*	HOU M, HU X, CAI J, et al. 2022. [An Integrated Graph Model for Spatial–Temporal Urban Crime Prediction Based on Attention Mechanism](https://www.mdpi.com/2220-9964/11/5/294). *ISPRS International Journal of Geo-Information 2022*.
+*	GANDAPUR M Q. 2022. [E2E-VSDL: End-to-end video surveillance-based deep learning model to detect and prevent criminal activities](https://www.sciencedirect.com/science/article/pii/S0262885622000968). *Image and Vision Computing 2022*.
+* RAYHAN Y, HASHEM T. 2023. [AIST: An Interpretable Attention-Based Deep Learning Model for Crime Prediction](https://dl.acm.org/doi/abs/10.1145/3582274). *ACM Transactions on Spatial Algorithms and Systems 2023*.
+* Li Z, Huang C, Xia L, et al. 2022. [Spatial-temporal hypergraph self-supervised learning for crime prediction](https://ieeexplore.ieee.org/abstract/document/9835423/). *2022 IEEE 38th International Conference on Data Engineering (ICDE). IEEE 2022*.
+*	XIA L, HUANG C, XU Y, et al. 2021. [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://arxiv.org/abs/2201.02435). *Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence. 2021*.
+[188]	GAO Q, FU H W, WEI Y, et al. Spatial-Temporal Diffusion Probabilistic Learning for Crime Prediction[J]. 2023.
+* Amato F, Guignard F, Robert S, et al. 2020. [A novel framework for spatio-temporal prediction of environmental data using deep learning](https://www.nature.com/articles/s41598-020-79148-7). *Scientific reports, 2020*.
+* Li T, Zhang J, Bao K, et al. 2020. [Autost: Efficient neural architecture search for spatio-temporal prediction](https://dl.acm.org/doi/abs/10.1145/3394486.3403122). *Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020*.
+*	WANG Y, TANG S, LEI Y, et al. 2020. [DisenHAN: Disentangled Heterogeneous Graph Attention Network for Recommendation](https://dl.acm.org/doi/abs/10.1145/3340531.3411996). *Proceedings of the 29th ACM International Conference on Information &amp; Knowledge Management 2020*.
+*	HUANG Z, MA J, DONG Y, et al. 2022. [Empowering Next POI Recommendation with Multi-Relational Modeling](https://dl.acm.org/doi/abs/10.1145/3477495.3531801). *Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval 2022*.
+* LIU X, YANG Y, XU Y, et al. 2022. [Real-time POI recommendation via modeling long- and short-term user preferences](https://www.sciencedirect.com/science/article/pii/S092523122101434X). *Neurocomputing 2022*. 
+*	WANG Z, ZHU Y, ZHANG Q, et al. 2022. [Graph-Enhanced Spatial-Temporal Network for Next POI Recommendation](https://dl.acm.org/doi/abs/10.1145/3513092). *ACM Transactions on Knowledge Discovery from Data 2022*.
+[195]	LI Q, XU X, LIU X, et al. An Attention-Based Spatiotemporal GGNN for Next POI Recommendation[J].
+[196]	WANG X, FUKUMOTO F, LI J, et al. STaTRL: Spatial-temporal and text representation learning for POI recommendation[J].
+[197]	WANG K, WANG X, LU X. POI recommendation method using LSTM-attention in LBSN considering privacy protection[J/OL]. Complex &amp; Intelligent Systems, 2023: 2801-2812. http://dx.doi.org/10.1007/s40747-021-00440-8. DOI:10.1007/s40747-021-00440-8.
+[198]	Spatio-Temporal Hypergraph Learning for Next POI Recommendation[J].
+[199]	WANG X, FUKUMOTO F, CUI J, et al. EEDN: Enhanced Encoder-Decoder Network with Local and Global Context Learning for POI Recommendation[J].
+[200]	FU J, GAO R, YU Y, et al. Contrastive graph learning long and short-term interests for POI recommendation[J].
+[201]	LANG C, WANG Z, HE K, et al. POI recommendation based on a multiple bipartite graph network model[J/OL]. The Journal of Supercomputing, 2022, 78(7): 9782-9816. http://dx.doi.org/10.1007/s11227-021-04279-1. DOI:10.1007/s11227-021-04279-1.
+[202]	QIN Y, WU H, JU W, et al. A Diffusion model for POI recommendation[J]. 2023.
+
 
 * 个推1-5
 * 以下为当前文中34、37、40、36、38、39、41、42
@@ -266,14 +299,11 @@
 * Liu H, Tong Y, Han J, et al. 2020. [Incorporating multi-source urban data for personalized and context-aware multi-modal transportation recommendation](https://ieeexplore.ieee.org/abstract/document/9063461/). *IEEE Transactions on Knowledge and Data Engineering, 2020*.
 * Zhu M, Hu J, Pu Z, et al. 2019. [Personalized Context-Aware Multi-Modal Transportation Recommendation](https://arxiv.org/abs/1910.12601). *arXiv preprint 2019*.
 
-<h4 id="space_time_event_prediction">时空事件预测</h4> 175-202
 
 * 城感1
 * 以下为当前文中43、44、46、47
-* Yang G, Yu H, Xi H. 2022. [A Spatio-Temporal Traffic Flow Prediction Method Based on Dynamic Graph Convolution Network](https://ieeexplore.ieee.org/abstract/document/10033842). *2022 34th Chinese Control and Decision Conference (CCDC). IEEE, 2022*.
-* Cheng M, Jiang G P, Song Y, et al. 2022. [Dynamic Spatio-temporal traffic flow prediction based on multi fusion graph attention network](https://ieeexplore.ieee.org/abstract/document/9902776). *2022 41st Chinese Control Conference (CCC). IEEE, 2022*.
-* Amato F, Guignard F, Robert S, et al. 2020. [A novel framework for spatio-temporal prediction of environmental data using deep learning](https://www.nature.com/articles/s41598-020-79148-7). *Scientific reports, 2020*.
-* Li T, Zhang J, Bao K, et al. 2020. [Autost: Efficient neural architecture search for spatio-temporal prediction](https://dl.acm.org/doi/abs/10.1145/3394486.3403122). *Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020*.
+
+
 
 <h4 id="spatio_temporal_data_completion">时空数据补全</h4> 203-214
 
