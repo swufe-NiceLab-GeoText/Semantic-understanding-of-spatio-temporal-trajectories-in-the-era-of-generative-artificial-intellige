@@ -86,11 +86,11 @@
 
 <h3 id="foundation_model_based_learning">基于底座模型的学习（Foundation Model-based Learning）</h3> 
 
-*	BROWN T B, MANN B, RYDER N, et al. 2020. [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html). *arXiv: Computation and Language, 2020*.
-*	Zhou T, Niu P, Sun L, et al. 2023. [One fits all: Power general time series analysis by pretrained lm](https://proceedings.neurips.cc/paper_files/paper/2023/hash/86c17de05579cde52025f9984e6e2ebb-Abstract-Conference.html). *Advances in neural information processing systems, 2023*.
-* Wang P, Wei X, Hu F, et al. 2024. [TransGPT: Multi-modal Generative Pre-trained Transformer for Transportation](https://arxiv.org/abs/2402.07233). *arXiv preprint arXiv:2402.07233, 2024*.
-*	ZHANG S, FU D, ZHANG Z, et al. 2024. [TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models](https://www.sciencedirect.com/science/article/pii/S0967070X24000726). *Transport Policy, 2024*.
-*	Liu R, Li C, Tang H, et al. 2024. [ST-LLM: Large Language Models Are Effective Temporal Learners](https://arxiv.org/abs/2404.00308). *arXiv preprint arXiv:2404.00308, 2024*.
+*	BROWN T B, MANN B, RYDER N, et al. 2020. [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html). *arXiv: Computation and Language 2020*.
+*	Zhou T, Niu P, Sun L, et al. 2023. [One fits all: Power general time series analysis by pretrained lm](https://proceedings.neurips.cc/paper_files/paper/2023/hash/86c17de05579cde52025f9984e6e2ebb-Abstract-Conference.html). *Advances in neural information processing systems 2023*.
+* Wang P, Wei X, Hu F, et al. 2024. [TransGPT: Multi-modal Generative Pre-trained Transformer for Transportation](https://arxiv.org/abs/2402.07233). *arXiv preprint 2024*.
+*	ZHANG S, FU D, ZHANG Z, et al. 2024. [TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models](https://www.sciencedirect.com/science/article/pii/S0967070X24000726). *Transport Policy 2024*.
+*	Liu R, Li C, Tang H, et al. 2024. [ST-LLM: Large Language Models Are Effective Temporal Learners](https://arxiv.org/abs/2404.00308). *arXiv preprint arXiv:2404.00308 2024*.
 * Xue H, Voutharoja B P, Salim F D. 2022. [Leveraging language foundation models for human mobility forecasting](https://dl.acm.org/doi/abs/10.1145/3557915.3561026). *Proceedings of the 30th International Conference on Advances in Geographic Information Systems 2022*.
 * Yang C H H, Tsai Y Y, Chen P Y. 2021. [Voice2series: Reprogramming acoustic models for time series classification](https://proceedings.mlr.press/v139/yang21j.html). *International conference on machine learning. PMLR 2021*.
 
