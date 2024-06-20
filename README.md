@@ -34,10 +34,10 @@
 
 * Alam M M, Torgo L, Bifet A. 2022. [A survey on spatio-temporal data analytics systems](https://dl.acm.org/doi/abs/10.1145/3507904). *ACM Computing Surveys 2022*.
 * Erwig, Martin, et al. 1999. [Spatio-temporal data types: An approach to modeling and querying moving objects in databases](https://link.springer.com/article/10.1023/A:1009805532638). *GeoInformatica 1999*.
-* Shekhar S, Jiang Z, Ali R Y, et al. 2015. [Spatiotemporal data mining: A computational perspective](https://www.mdpi.com/2220-9964/4/4/2306). *ISPRS International Journal of Geo-Information, 2015*.
+* Shekhar S, Jiang Z, Ali R Y, et al. 2015. [Spatiotemporal data mining: A computational perspective](https://www.mdpi.com/2220-9964/4/4/2306). *ISPRS International Journal of Geo-Information 2015*.
 * Pelekis, Nikos, et al. 2004. [Literature review of spatio-temporal database models](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/literature-review-of-spatiotemporal-database-models/38175D21635346C9002C3C2DEDF9232D). *The Knowledge Engineering Review 2004*.
-* Yao D, Zhang C, Huang JH, Chen YX, Bi JP. 2018. [Semantic understanding of spatio-temporal data: Technology & application](https://www.jos.org.cn/josen/article/abstract/5576). *Ruan Jian Xue Bao/Journal of Software, 2018*.
-* Gao Q, Zhang FL, Wang RJ, Zhou F. 2017. [Trajectory big data: A review of key technologies in data processing](https://www.jos.org.cn/josen/article/abstract/5143). *Ruan Jian Xue Bao/Journal of Software, 2017*.
+* Yao D, Zhang C, Huang JH, Chen YX, Bi JP. 2018. [Semantic understanding of spatio-temporal data: Technology & application](https://www.jos.org.cn/josen/article/abstract/5576). *Ruan Jian Xue Bao/Journal of Software 2018*.
+* Gao Q, Zhang FL, Wang RJ, Zhou F. 2017. [Trajectory big data: A review of key technologies in data processing](https://www.jos.org.cn/josen/article/abstract/5143). *Ruan Jian Xue Bao/Journal of Software 2017*.
 * Zhang, Junbo, et al. 2016. [DNN-based prediction model for spatio-temporal data](https://dl.acm.org/doi/abs/10.1145/2996913.2997016). *Proceedings of the 24th ACM SIGSPATIAL international conference on advances in geographic information systems 2016*.
 
 <h3 id="common_trajectory_data">常见时空轨迹数据</h3> 
@@ -57,7 +57,7 @@
 
 <h3 id="deep_sequence_learning">时空图神经网络（Spatial-Temporal Graph Neural Networks）</h3> 14-18
 
-*	Feng J, Li Y, Zhang C, et al. 2018. [Deepmove: Predicting human mobility with attentional recurrent networks](https://dl.acm.org/doi/abs/10.1145/3178876.3186058) *Proceedings of the 2018 world wide web conference 2018*.
+*	Feng J, Li Y, Zhang C, et al. 2018. [Deepmove: Predicting human mobility with attentional recurrent networks](https://dl.acm.org/doi/abs/10.1145/3178876.3186058). *Proceedings of the 2018 world wide web conference 2018*.
 *	Gao J, Sharma R, Qian C, et al. 2021. [STAN: spatio-temporal attention network for pandemic prediction using real-world evidence](https://academic.oup.com/jamia/article-abstract/28/4/733/6118380). *Journal of the American Medical Informatics Association 2021*. 
 *	Bai S, Kolter J Z, Koltun V. 2018. [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271). *arXiv: Learning 2018*.
 *	Su Z, Liu T, Hao X, et al. 2023. [Spatial-temporal graph convolutional networks for traffic flow prediction considering multiple traffic parameters](https://link.springer.com/article/10.1007/s11227-023-05383-0). *The Journal of Supercomputing 2023*. 
