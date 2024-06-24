@@ -47,6 +47,7 @@
 
 <h3 id="representation_and_definition">时空轨迹数据的表示与定义</h3> 
 
+* Gao Q, Zhou F, Zhang K, et al. 2017. [Identifying Human Mobility via Trajectory Embeddings](https://www.ijcai.org/proceedings/2017/0234.pdf). *IJCAI 2017*.
 * ao HL, Tang HN, Wang F, Xu YJ. 2021. [Survey on trajectory representation learning techniques](https://www.jos.org.cn/josen/article/abstract/6210). *Ruan Jian Xue Bao/Journal of Software 2021*.
 * Li CN, Feng GW, Yao H, Liu RY, Li YN, Xie K, Miao QG. 2024. [Survey on Trajectory Anomaly Detection](https://www.jos.org.cn/josen/article/abstract/6996). *Ruan Jian Xue Bao/Journal of Software 2024*.
 
