@@ -58,6 +58,8 @@
 
 <h3 id="spatial_temporal_graph_neural_networks">时空图神经网络（Spatial-Temporal Graph Neural Networks）</h3> 
 
+* Jinyu Hong, Ping Kuang, Qiang Gao*, Fan Zhou. 2024. [Disentanglement-Guided Spatial-Temporal Graph Neural Network for Metro Flow Forecasting(Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/30452). *The Thirty-Eighth AAAI Conference on Artificial Intelligence 2024*.
+* Qiang Gao, Fan Zhou, Ting Zhong, Goce Trajcevski, Xin Yang, and Tianrui Li. 2022. [Contextual Spatio-Temporal Graph Representation Learning for Reinforced Human Mobility Mining](https://www.sciencedirect.com/science/article/pii/S0020025522004819). *Information Sciences 2022*.
 *	Feng J, Li Y, Zhang C, et al. 2018. [Deepmove: Predicting human mobility with attentional recurrent networks](https://dl.acm.org/doi/abs/10.1145/3178876.3186058). *Proceedings of the 2018 world wide web conference 2018*.
 *	Gao J, Sharma R, Qian C, et al. 2021. [STAN: spatio-temporal attention network for pandemic prediction using real-world evidence](https://academic.oup.com/jamia/article-abstract/28/4/733/6118380). *Journal of the American Medical Informatics Association 2021*. 
 *	Bai S, Kolter J Z, Koltun V. 2018. [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271). *arXiv: Learning 2018*.
@@ -179,6 +181,7 @@
 
 <h4 id="trajectory_classification">时空轨迹分类</h4> 
 
+* Fan Zhou, Qiang Gao, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, Fengli Zhang. 2018. [Trajectory-User Linking via Variational AutoEncoder](https://cake.fiu.edu/Publications/Zhou+al-18-TU_Trajectory-User_Linking_via_Variational_Auto_Encoder_IJCAI_downloaded.pdf). *IJCAI 2018*.
 *	OH J, LIM K T, CHUNG Y S. 2021. [TrajNet: An Efficient and Effective Neural Network for Vehicle Trajectory Classification](https://www.scitepress.org/Papers/2021/102433/102433.pdf). *Proceedings of the 10th International Conference on Pattern Recognition Applications and Methods 2021*.
 *	FREITAS N C A de, DA SILVA T L C, DE MACÊDO J A F, et al. 2021. [Using deep learning for trajectory classification in imbalanced dataset](https://journals.flvc.org/FLAIRS/article/view/128368). *The International FLAIRS Conference Proceedings 2021*.
 * GUO T, XIE L. 2022. [Research on Ship Trajectory Classification Based on a Deep Convolutional Neural Network](https://www.mdpi.com/2077-1312/10/5/568). *Journal of Marine Science and Engineering 2022*.
@@ -197,6 +200,7 @@
 
 <h4 id="abnormal_identification">异常行为识别</h4> 
 
+* Qiang Gao, Xiaohan Wang, Chaoran Liu, Goce Trajcevski, Li Huang, Fan Zhou. 2023. [Open Anomalous Trajectory Recognition via Probabilistic Metric Learning](https://www.ijcai.org/proceedings/2023/0233.pdf) *The 32nd International Joint Conference on Artificial Intelligence (IJCAI) 2023*.
 * KUMARAN SANTHOSH K, DOGRA D P, ROY P P, et al. 2022. [Vehicular Trajectory Classification and Traffic Anomaly Detection in Videos Using a Hybrid CNN-VAE Architecture](https://ieeexplore.ieee.org/abstract/document/9531567/). *IEEE Transactions on Intelligent Transportation Systems 2022*.
 * Wiederer J, Bouazizi A, Troina M, et al. 2022. [Anomaly detection in multi-agent trajectories for automated driving](https://proceedings.mlr.press/v164/wiederer22a.html). *Conference on Robot Learning. PMLR 2022*.
 *	SU Y, YAO D, TIAN T, et al. 2023. [Transfer learning for region-wide trajectory outlier detection](https://ieeexplore.ieee.org/abstract/document/10179898/). *IEEE Access 2023*. 
@@ -214,6 +218,18 @@
 
 <h4 id="space_time_trajectory_prediction">时空轨迹预测</h4> 
 
+* Li Huang, Kai Liu, Chaoran Liu, Qiang Gao*, Xiao Zhou, and Guisong Liu. 2023. [HBay: Predicting Human Mobility via Hyperspherical Bayesian Learning](https://link.springer.com/chapter/10.1007/978-3-031-40286-9_21). *The 16th International Conference on Knowledge Science Engineering and Management (KSEM) 2023*.
+* Qiang Gao, Hongzhu Fu, Kunpeng Zhang, Goce Trajcevski, Xu Teng, and Fan Zhou. 2023. [Inferring Real Mobility in Presence of Fake Check-ins Data](https://dl.acm.org/doi/full/10.1145/3604941). *ACM Transactions on Intelligent Systems and Technology 2023*.
+* Jinyu Hong, Fan Zhou, Qiang Gao*, Ping Kuang, and Kunpeng Zhang. 2023. [Mobility Prediction via Sequential Trajectory Disentanglement (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/26975). *The Thirty-Seventh AAAI Conference on Artificial Intelligence 2023*.
+* Xovee Xu, Zhiyuan Wang, Qiang Gao, Ting Zhong, Bei Hui, Fan Zhou, and Goce Trajcevski. 2023. [Spatial-Temporal Contrasting for Fine-Grained Urban Flow Inference](https://ieeexplore.ieee.org/abstract/document/10254322/). *IEEE Transactions on Big Data 2023*.
+* Qiang Gao, Jinyu Hong, Xovee Xu, Ping Kuang, Fan Zhou, and Goce Trajcevski. 2023. [Predicting Human Mobility via Self-supervised Disentanglement Learning](https://ieeexplore.ieee.org/abstract/document/10265198/). *IEEE Transactions on Knowledge and Data Engineering 2023*.
+* Qiang Gao, Wei Wang, Li Huang, Xin Yang, Tianrui Li, and Hamido Fujita. 2023. [Dual-grained Human Mobility Learning for Location-aware Trip Recommendation with Spatial-temporal Graph Knowledge Fusion](https://www.sciencedirect.com/science/article/pii/S1566253522002287). *Information Fusion 2023*.
+* Qiang Gao, Fan Zhou, Xin Yang, and Guisong Liu. 2023. [When Friendship Meets Sequential Human Check-ins: Inferring Social Circles with Variational Mobility](https://www.sciencedirect.com/science/article/abs/pii/S0925231222013297). *Neurocomputing 2023*.
+* Fan Zhou, Rongfan Li, Qiang Gao, Goce Trajcevski, Kunpeng Zhang, and Ting Zhong. 2022. [Dynamic Manifold Learning for Land Deformation Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/20398). *Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI) 2022*.
+* Fan Zhou, Yurou Dai, Qiang Gao, Pengyu Wang, and Ting Zhong. 2021. [Self-Supervised Human Mobility Learning for Next Location Prediction and Trajectory Classification](https://www.sciencedirect.com/science/article/pii/S0950705121004767). *Knowledge-Based Systems 2021*.
+* Qiang Gao, Fan Zhou, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Fengli Zhang. 2021. [Adversarial Human Trajectory Learning for Trip Recommendation](https://ieeexplore.ieee.org/abstract/document/9361427/). *IEEE Transactions on Neural Networks and Learning Systems 2021*.
+* Qiang Gao, Goce Trajcevski, Fan Zhou, Kunpeng Zhang, Ting Zhong, and Fengli Zhang. 2019. [DeepTrip: Adversarially Understanding Human Mobility for Trip Recommendation](https://dl.acm.org/doi/abs/10.1145/3347146.3359088). *Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL) 2019*.
+* Qiang Gao, Fan Zhou, Goce Trajcevski, Kunpeng Zhang, Ting Zhong, and Fengli Zhang. 2019. [Predicting Human mobility via Variational Attention](https://dl.acm.org/doi/abs/10.1145/3308558.3313610). *The World Wide Web Conference (WWW) 2019*.
 *	WANG H, SHEN H, OUYANG W, et al. 2018. [Exploiting POI-Specific Geographical Influence for Point-of-Interest Recommendation](https://www.ijcai.org/proceedings/2018/0539.pdf). *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence 2018*.
 *	FENG S, CONG G, AN B, et al. 2022. [POI2Vec: Geographical Latent Representation for Predicting Future Visitors](https://ojs.aaai.org/index.php/AAAI/article/view/10500). *Proceedings of the AAAI Conference on Artificial Intelligence 2022*.
 *	RENDLE S, FREUDENTHALER C, SCHMIDT-THIEME L. 2010. [Factorizing personalized Markov chains for next-basket recommendation](https://dl.acm.org/doi/abs/10.1145/1772690.1772773). *Proceedings of the 19th international conference on World wide web 2010*.
@@ -258,6 +274,8 @@
 
 <h4 id="space_time_event_prediction">时空事件预测</h4> 
 
+* Hongzhu Fu, Fan Zhou, Qing Guo, Qiang Gao. 2024. [Spatial-Temporal Augmentation for Crime Prediction (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/30442). *The Thirty-Eighth AAAI Conference on Artificial Intelligence 2024*.
+* Qiang Gao, Hongzhu Fu, Yutao Wei, Li Huang, Xingmin Liu, and Guisong Liu. 2023. [Spatial-Temporal Diffusion Probabilistic Learning for Crime Prediction](https://link.springer.com/chapter/10.1007/978-3-031-40286-9_22). *The 16th International Conference on Knowledge Science, Engineering and Management 2023*.
 *	XU L, CHEN N, CHEN Z, et al. 2021. [Spatiotemporal forecasting in earth system science: Methods, uncertainties, predictability and future directions](https://www.sciencedirect.com/science/article/pii/S0012825221003299). *Earth-Science Reviews 2021*.
 * Yang G, Yu H, Xi H. 2022. [A Spatio-Temporal Traffic Flow Prediction Method Based on Dynamic Graph Convolution Network](https://ieeexplore.ieee.org/abstract/document/10033842). *2022 34th Chinese Control and Decision Conference (CCDC). IEEE 2022*.
 * Cheng M, Jiang G P, Song Y, et al. 2022. [Dynamic Spatio-temporal traffic flow prediction based on multi fusion graph attention network](https://ieeexplore.ieee.org/abstract/document/9902776). *2022 41st Chinese Control Conference (CCC). IEEE 2022*.
