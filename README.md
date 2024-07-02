@@ -211,6 +211,9 @@
 * Djenouri Y, Djenouri D, Lin J C W. 2021. [Trajectory outlier detection: New problems and solutions for smart cities](https://dl.acm.org/doi/abs/10.1145/3425867). *ACM Transactions on Knowledge Discovery from Data (TKDD) 2021*.
 *	Mao J, Liu J, Jin C, et al. 2021. [Feature Grouping–based Trajectory Outlier Detection over Distributed Streams](https://dl.acm.org/doi/abs/10.1145/3444753). *ACM Transactions on Intelligent Systems and Technology 2021*.
 *	Ahmed U, Srivastava G, Djenouri Y, et al. 2022. [Deviation Point Curriculum Learning for Trajectory Outlier Detection in Cooperative Intelligent Transport Systems](https://ieeexplore.ieee.org/abstract/document/9646484/). *IEEE Transactions on Intelligent Transportation Systems 2022*.
+*	JIN C, TAO T, LUO X, et al. 2020. [S2N2: An Interpretive Semantic Structure Attention Neural Network for Trajectory Classification](https://ieeexplore.ieee.org/abstract/document/9044862/). *IEEE Access 2020*.
+*	SHI Y, WANG D, NI Z, et al. 2022. [A Sequential Pattern Mining Based Approach to Adaptively Detect Anomalous Paths in Floating Vehicle Trajectories](https://ieeexplore.ieee.org/abstract/document/9762798/). *IEEE Transactions on Intelligent Transportation Systems 2022*.
+*	GAO L, XU C, WANG F, et al. 2023. [Flight data outlier detection by constrained LSTM-autoencoder](https://link.springer.com/article/10.1007/s11276-023-03353-1). *Wireless Networks 2023*.
 
 <h3 id="trajectory_prediction_learning">基于时空语义理解的轨迹预测学习</h3> 
 
@@ -272,9 +275,12 @@
 * Nguyen T, Brandstetter J, Kapoor A, et al. 2023. [Climax: A foundation model for weather and climate](https://arxiv.org/abs/2301.10343). *arXiv preprint 2023*.
 * Chen K, Han T, Gong J, et al. 2023. [Fengwu: Pushing the skillful global medium-range weather forecast beyond 10 days lead](https://arxiv.org/abs/2304.02948). *arXiv preprint 2023*.
 * Bi K, Xie L, Zhang H, et al. 2022. [Pangu-weather: A 3d high-resolution model for fast and accurate global weather forecast](https://arxiv.org/abs/2211.02556). *arXiv preprint 2022*.
+* Bi K, Xie L, Zhang H, et al. 2023. [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3). *Nature 2023*.
 
 <h4 id="space_time_event_prediction">时空事件预测</h4> 
 
+* Hongzhu Fu, Fan Zhou, Qing Guo, Qiang Gao. 2024. [Spatial-Temporal Augmentation for Crime Prediction (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/30442). *The Thirty-Eighth AAAI Conference on Artificial Intelligence 2024*.
+* Qiang Gao, Hongzhu Fu, Yutao Wei, Li Huang, Xingmin Liu, and Guisong Liu. 2023. [Spatial-Temporal Diffusion Probabilistic Learning for Crime Prediction](https://link.springer.com/chapter/10.1007/978-3-031-40286-9_22). *The 16th International Conference on Knowledge Science, Engineering and Management 2023*.
 *	Xu L, Chen N, Chen Z, et al. 2021. [Spatiotemporal forecasting in earth system science: Methods, uncertainties, predictability and future directions](https://www.sciencedirect.com/science/article/pii/S0012825221003299). *Earth-Science Reviews 2021*.
 * Yang G, Yu H, Xi H. 2022. [A Spatio-Temporal Traffic Flow Prediction Method Based on Dynamic Graph Convolution Network](https://ieeexplore.ieee.org/abstract/document/10033842). *2022 34th Chinese Control and Decision Conference (CCDC). IEEE 2022*.
 * Cheng M, Jiang G P, Song Y, et al. 2022. [Dynamic Spatio-temporal traffic flow prediction based on multi fusion graph attention network](https://ieeexplore.ieee.org/abstract/document/9902776). *2022 41st Chinese Control Conference (CCC). IEEE 2022*.
@@ -301,18 +307,18 @@
 
 <h4 id="spatio_temporal_data_completion">时空数据补全</h4> 
 
-*	CHEN J, CHEN P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](https://ieeexplore.ieee.org/abstract/document/8078795/). *International Conference on Big Data 2017*.
-*	KONG X, ZHOU W, SHEN G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](https://www.sciencedirect.com/science/article/pii/S0950705122012849). *Knowledge-Based Systems 2023*.
+*	Chen J, Chen P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](https://ieeexplore.ieee.org/abstract/document/8078795/). *International Conference on Big Data 2017*.
+*	Kong X, Zhou W, Shen G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](https://www.sciencedirect.com/science/article/pii/S0950705122012849). *Knowledge-Based Systems 2023*.
 * Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](https://www.mdpi.com/2220-9964/12/1/13). *ISPRS International Journal of Geo-Information 2023*.
 * Xu D, Peng H, Wei C, et al. 2021. [Traffic state data imputation: An efficient generating method based on the graph aggregator](https://ieeexplore.ieee.org/abstract/document/9582618/). *IEEE Transactions on Intelligent Transportation Systems 2021*.
 * Psychogyios K, Ilias L, Ntanos C, et al. 2023. [Missing value imputation methods for electronic health records](https://ieeexplore.ieee.org/abstract/document/10057378/). *IEEE Access 2023*.
-*	YE Y, ZHANG S, YU J J Q. 2021. [Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-86362-3_20). *Lecture Notes in Computer Science, Artificial Neural Networks and Machine Learning – ICANN 2021*. 
-*	ZHAO D, ZHANG Y, WANG W, et al. 2023. [Car‐following trajectory data imputation with adversarial convolutional neural network](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12319). *IET Intelligent Transport Systems 2023*. 
+*	Ye Y, Zhang S, Yu J J Q. 2021. [Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-86362-3_20). *Lecture Notes in Computer Science, Artificial Neural Networks and Machine Learning – ICANN 2021*. 
+*	Zhao D, Zhang Y, Wang W, et al. 2023. [Car‐following trajectory data imputation with adversarial convolutional neural network](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12319). *IET Intelligent Transport Systems 2023*. 
 * Jiang L, Zhang T, Zuo Q, et al. 2022. [A deep learning framework for traffic data imputation considering spatiotemporal dependencies](https://ieeexplore.ieee.org/abstract/document/10101407/). *2022 IEEE 7th International Conference on Intelligent Transportation Engineering (ICITE). IEEE 2022*.
 * Zhao C, Song A, Du Y, et al. 2022. [TrajGAT: A map-embedded graph attention network for real-time vehicle trajectory imputation of roadside perception](https://www.sciencedirect.com/science/article/pii/S0968090X22002157). *Transportation research part C: emerging technologies 2022*.
 * Xu Y, Bazarjani A, Chi H, et al. 2023. [Uncovering the missing pattern: Unified framework towards trajectory imputation and prediction](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Uncovering_the_Missing_Pattern_Unified_Framework_Towards_Trajectory_Imputation_and_CVPR_2023_paper.html). *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023*.
 * Qin K K, Ren Y, Shao W, et al. 2023. [Multiple-level point embedding for solving human trajectory imputation with prediction](https://dl.acm.org/doi/abs/10.1145/3582427). *ACM Transactions on Spatial Algorithms and Systems 2023*.
-*	XU X, LIN M, LUO X, et al. 2023. [HRST-LR: A Hessian Regularization Spatio-Temporal Low Rank Algorithm for Traffic Data Imputation](https://ieeexplore.ieee.org/abstract/document/10146198/). *IEEE Transactions on Intelligent Transportation Systems 2023*. 
+*	Xu X, Lin M, Luo X, et al. 2023. [HRST-LR: A Hessian Regularization Spatio-Temporal Low Rank Algorithm for Traffic Data Imputation](https://ieeexplore.ieee.org/abstract/document/10146198/). *IEEE Transactions on Intelligent Transportation Systems 2023*. 
 
 <h2 id="challenge_and_opportunities">新智能时代的时空轨迹语义理解的挑战与机遇</h2> 
 
@@ -320,10 +326,10 @@
 
 <h3 id="multimodal_data_processing">多模态数据处理</h3> 
 
-* LAHAT D, ADALI T, JUTTEN C. 2015. [Multimodal Data Fusion: An Overview of Methods, Challenges, and Prospects](https://ieeexplore.ieee.org/abstract/document/7214350/). *Proceedings of the IEEE 2015*.
+* Lahat D, Adali T, Jutten C. 2015. [Multimodal Data Fusion: An Overview of Methods, Challenges, and Prospects](https://ieeexplore.ieee.org/abstract/document/7214350/). *Proceedings of the IEEE 2015*.
 * Shao R, Yang C, Li Q, et al. 2023. [AllSpark: A Multimodal Spatio-Temporal General Intelligence Model with Thirteen Modalities](https://arxiv.org/abs/2401.00546). *arXiv preprint 2023*.
 * Chen Y, Zhao M, Bruzzone L. 2023. [Incomplete multimodal learning for remote sensing data fusion](https://arxiv.org/abs/2304.11381). *arXiv preprint 2023*.
-*	MIN J H, HAM S W, KIM D K, et al. 2023. [Deep Multimodal Learning for Traffic Speed Estimation Combining Dedicated Short-Range Communication and Vehicle Detection System Data](https://journals.sagepub.com/doi/abs/10.1177/03611981221130026). *Transportation Research Record: Journal of the Transportation Research Board 2023*.
+*	Min J H, Ham S W, Kim D K, et al. 2023. [Deep Multimodal Learning for Traffic Speed Estimation Combining Dedicated Short-Range Communication and Vehicle Detection System Data](https://journals.sagepub.com/doi/abs/10.1177/03611981221130026). *Transportation Research Record: Journal of the Transportation Research Board 2023*.
 * Xiao H, Zhao Y, Zhang H. 2022. [Predict vessel traffic with weather conditions based on multimodal deep learning](https://www.mdpi.com/2077-1312/11/1/39). *Journal of Marine Science and Engineering 2022*.
 * Chen J, Zhang A. 2023. [On Hierarchical Disentanglement of Interactive Behaviors for Multimodal Spatiotemporal Data with Incompleteness](https://dl.acm.org/doi/abs/10.1145/3580305.3599448). *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2023*.
 * Zhou B, Wang P, Wan J, et al. 2022. [Decoupling and recoupling spatiotemporal representation for rgb-d-based motion recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Decoupling_and_Recoupling_Spatiotemporal_Representation_for_RGB-D-Based_Motion_Recognition_CVPR_2022_paper.html). *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022*.
@@ -331,7 +337,7 @@
 
 <h3 id="transparent_and_releasable">模型的透明可释</h3> 
 
-*	MA J, ZHOU C, CUI P, et al. 2019. [Learning Disentangled Representations for Recommendation](https://proceedings.neurips.cc/paper/2019/hash/a2186aa7c086b46ad4e8bf81e2a3a19b-Abstract.html). *Neural Information Processing Systems 2019*.
+*	Ma J, Zhou C, Cui P, et al. 2019. [Learning Disentangled Representations for Recommendation](https://proceedings.neurips.cc/paper/2019/hash/a2186aa7c086b46ad4e8bf81e2a3a19b-Abstract.html). *Neural Information Processing Systems 2019*.
 * Karpathy A, Johnson J, Fei-Fei L. 2015. [Visualizing and understanding recurrent networks](https://arxiv.org/abs/1506.02078). *arXiv preprint 2015*.
 * Hupkes D, Veldhoen S, Zuidema W. 2018. [Visualisation and'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure](https://www.jair.org/index.php/jair/article/view/11196). *Journal of Artificial Intelligence Research 2018*.
 * Tenney I, Xia P, Chen B, et al. 2019. [What do you learn from context? probing for sentence structure in contextualized word representations](https://arxiv.org/abs/1905.06316). *arXiv preprint  2019*.
@@ -347,13 +353,13 @@
 
 <h3 id="availability_and_resource_consumption">模型可用与资源消耗</h3> 
 
-*	J. H, SHEN Y, WALLIS P, et al. 2021. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). *arXiv: Computation and Language 2021*.
-*	BELTAGY I, PETERS MatthewE, COHAN A. 2020. [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150). *arXiv: Computation and Language 2020*.
-*	DAI Z, YANG Z, YANG Y, et al. 2019. [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860). *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics 2019*.
-* VADERA S, AMEEN S. 2022. [Methods for Pruning Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9795013/). *IEEE Access 2022*. 
+*	Hu E J, Shen Y, Wallis P, et al. 2021. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). *arXiv: Computation and Language 2021*.
+*	Beltagy I, Peters M E, Cohan A. 2020. [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150). *arXiv: Computation and Language 2020*.
+*	Dai Z, Yang Z, Yang Y, et al. 2019. [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860). *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics 2019*.
+* Vadera S, Ameen S. 2022. [Methods for Pruning Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9795013/). *IEEE Access 2022*. 
 
 <h3 id="trust_issues">伦理与信任问题</h3> 
 
 * Morris J X, Kuleshov V, Shmatikov V, et al. 2023. [Text embeddings reveal (almost) as much as text](https://arxiv.org/abs/2310.06816). *arXiv preprint 2023*.
-*	GARG N, SCHIEBINGER L, JURAFSKY D, et al. 2018. [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/doi/abs/10.1073/pnas.1720347115). *Proceedings of the National Academy of Sciences 2018*.
+*	Garg N, Schiebinger L, Jurafsky D, et al. 2018. [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/doi/abs/10.1073/pnas.1720347115). *Proceedings of the National Academy of Sciences 2018*.
 * He J, Xia M, Fellbaum C, et al. 2022. [MABEL: Attenuating gender bias using textual entailment data](https://arxiv.org/abs/2210.14975). *arXiv preprint 2022*.
