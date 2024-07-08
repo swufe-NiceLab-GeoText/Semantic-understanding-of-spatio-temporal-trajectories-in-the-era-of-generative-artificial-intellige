@@ -371,25 +371,36 @@
 | 分类类型    | 数据集名称      | 主要地区      | 数据集介绍               |
 |-------------|----------------|---------------|--------------------------|
 | 人类移动    | [GeoLife](https://www.microsoft.com/en-us/download/details.aspx?id=52367)        | 亚洲          | 182个用户,17621个轨迹,91%的1~5S/P采样率|
-| 项目2       | 项目的简短描述       | 进行中     |  |
-| 项目3       | 项目的简短描述       | 计划中     |  |
+| 人类移动    | [TMD](https://cs.unibo.it/projects/us-tm2017/)       | 意大利          | 13个用户,226个轨迹,0.05s/p采样率|
+| 人类移动    | [SHL](http://www.shl-dataset.org/)        | 英国          | 3个用户,12个轨迹,1S/P采样率  |
+| 人类移动    | [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Downloading_data)        | 全球          | 870万+轨迹,持续更新 |
+| 人类移动    | [MDC](https://www.idiap.ch/en/scientific-research/data/mdc)        | 瑞士          | 185个轨迹,近200个个体 |
+| 人类移动    | [MIT-Humob2023](https://connection.mit.edu/humob-challenge-2023)        | 日本          | 10万个人,85种场地 |
+| 人类移动    | [COVlD19USFlows](https://github.com/GeoDS/COVID19USFlows)        | 美国         | 22万个场地,数百万匿名用户 |
+| 人类移动    | [ETH walking pedestrians](https://paperswithcode.com/dataset/eth-biwi-walking-pedestrians)        | 瑞士          | 4006张图像,19个城市景观类别像素级注释 |
+| 人类移动    | [US Covid-19](https://github.com/CSsEGISandData/COVD-19)        | 美国          | 记录和分析美国境内COVID-19疫情情况 |
+| 人类移动    | [Italy Covid-19](https://github.com/pcm-dpc/COVD-19)        | 意大利          | 记录和分析意大利境内COVID-19疫情情况 |
+| 人类移动    | [Japan-Prefectures ILI](https://tinyurl.com/y5dt7stm)        | 日本          | 关于日本各县流感病例统计 |
+| 人类移动    | [US ILI](https://tinyurl.com/y39tog3h)        | 美国          | 2002年到2021年美国疾病控制和预防中心每周数据 |
+| 交通轨迹    | [T-Drive]()        |     中国北京       | 10357辆车177 s/p(Avg.) 采样率 |
+| 交通轨迹    | [Porto]()        |     葡萄牙波尔图       | 442辆车,1,710,990 条轨迹, 15 s/p 采样率 |
+| 交通轨迹    | [Taxi-Shanghai]()        |    中国上海        | 4,316辆车,780万条轨迹, 5 s/p 采样率 |
+| 交通轨迹    | [DiDi-Chengdu]()        |      中国成都      | 3,493,918条轨迹, 3 s/p Avg. 采样率 |
+| 交通轨迹    | [DiDi-Xian]()        |      中国西安      | 2,180,348条轨迹, 3 s/p Avg. 采样率 |
+| 交通轨迹    | [Greek]()        |      希腊雅典      | 50辆车, 1.100 条轨迹 |
+| 交通轨迹    | [TaxiBJ]()        |    中国北京        | 30分钟间隔,34.000+辆出租车 |
+| 交通轨迹    | [BikeNYC]()        |      美国纽约      | 1-小时间隔, 6,800+辆自行车 |
+| 交通轨迹    | [TaxiBJ21]()        |     中国北京       | 30-分钟间隔,17,749 辆车 |
+| 交通轨迹    | [California-PEMS](http://pems.dot.ca.gov/)        |     美国加利福尼亚       | 超过44681个检测器 |
+| 交通轨迹    | [METR-LA](https://77www.metro.net/)        |      美国洛杉矶      | 1500个探测器,涵盖3420英里 |
+| 交通轨迹    | [NYC taxi](https://wwwl.nyc.gov/site/tle/about/tle-trip-record-data.page)        |      美国纽约      | 2009-2018年的数据 |
+| 交通轨迹    | [NYC bike](https://www.citibikenyc.com/sytem-data)        |      美国纽约      | 2013年到如今数据 |
+| 交通轨迹    | [Chicago bike](https://www.divvybikes.com/system-data)        |     美国芝加哥       | 2013到如今数据 |
+| 交通轨迹    | [NYC accident](https://data.cityofnewyork.us,)        |       美国纽约     | 2012-2019交通事故 |
+| 交通轨迹    | [Chicago accident](https://data.cityofchicago.org/)        |    美国芝加哥        | 2001-2017年 |
+| 交通轨迹    | [ ]()        |            |  |
 
-<h3 id="human_move">人类移动</h3> 
 
-* GeoLife
-* TMD
-* SHL
-* OpenStreetMap
-* MDC
-* MI-Humob2023
-* COVlD19USFlows
-* ETH walking pedestrians
-* US Covid-19
-* Italy Covid-19
-* Japan-Prefectures ILI
-* US ILI
-
-<h2 id="traffic_track">交通轨迹</h2> 
 
 <h2 id="elements_interest">兴趣元素</h2> 
 
