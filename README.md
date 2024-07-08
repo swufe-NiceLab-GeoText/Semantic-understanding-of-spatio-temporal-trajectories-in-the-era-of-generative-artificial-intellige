@@ -396,7 +396,7 @@
 | 交通轨迹    | [NYC taxi](https://www.nyc.gov/site/tle/about/tle-trip-record-data.page)        |      美国纽约      | 2009-2018年的数据 |
 | 交通轨迹    | [NYC bike](https://www.citibikenyc.com/system-data)        |      美国纽约      | 2013年到如今数据 |
 | 交通轨迹    | [Chicago bike](https://www.divvybikes.com/system-data)        |     美国芝加哥       | 2013到如今数据 |
-| 交通轨迹    | [NYC accident](https://data.cityofnewyork.us,)        |       美国纽约     | 2012-2019交通事故 |
+| 交通轨迹    | [NYC accident](https://data.cityofnewyork.us)        |       美国纽约     | 2012-2019交通事故 |
 | 交通轨迹    | [Chicago accident](https://data.cityofchicago.org/)        |    美国芝加哥        | 2001-2017年 |
 | 兴趣元素    | [Gowalla](https://snap.stanford.edu/data/loc-gowalla.html)        |     全球       | 196,591个节点, 950,327个边 |
 | 兴趣元素    | [BrightKite](https://snap.stanford.edu/data/loc-brightkite.html)        |      全球      | 58,228个节点, 214,078个边 |
