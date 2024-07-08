@@ -420,9 +420,3 @@
 | 环境气象    | [Japan typhoon](http://agora.ex.nii.ac.jp/digital-typhoon/)        |     日本       | 记录台风路径和轻度、降雨量、灾害影响等 |
 | 环境气象    | [California earthquake](https://service.iris.edu)        |     美国加利福尼亚       | 从1969年到2007年的地震信息 |
 
-
-
-
-<h2 id="elements_interest">兴趣元素</h2> 
-
-<h2 id="environmental_meteorology">环境气象</h2> 
