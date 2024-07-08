@@ -393,8 +393,8 @@
 | 交通轨迹    | [TaxiBJ21](https://onlinelibrary.wiley.com/doi/abs/10.1002/itl2.297)        |     中国北京       | 30-分钟间隔,17,749 辆车 |
 | 交通轨迹    | [California-PEMS](http://pems.dot.ca.gov/)        |     美国加利福尼亚       | 超过44681个检测器 |
 | 交通轨迹    | [METR-LA](https://www.metro.net/)        |      美国洛杉矶      | 1500个探测器,涵盖3420英里 |
-| 交通轨迹    | [NYC taxi](https://wwwl.nyc.gov/site/tle/about/tle-trip-record-data.page)        |      美国纽约      | 2009-2018年的数据 |
-| 交通轨迹    | [NYC bike](https://www.citibikenyc.com/sytem-data)        |      美国纽约      | 2013年到如今数据 |
+| 交通轨迹    | [NYC taxi](https://www.nyc.gov/site/tle/about/tle-trip-record-data.page)        |      美国纽约      | 2009-2018年的数据 |
+| 交通轨迹    | [NYC bike](https://www.citibikenyc.com/system-data)        |      美国纽约      | 2013年到如今数据 |
 | 交通轨迹    | [Chicago bike](https://www.divvybikes.com/system-data)        |     美国芝加哥       | 2013到如今数据 |
 | 交通轨迹    | [NYC accident](https://data.cityofnewyork.us,)        |       美国纽约     | 2012-2019交通事故 |
 | 交通轨迹    | [Chicago accident](https://data.cityofchicago.org/)        |    美国芝加哥        | 2001-2017年 |
