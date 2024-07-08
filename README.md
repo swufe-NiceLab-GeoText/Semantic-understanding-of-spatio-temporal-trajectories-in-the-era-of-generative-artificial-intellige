@@ -382,15 +382,15 @@
 | 人类移动    | [Italy Covid-19](https://github.com/pcm-dpc/COVD-19)        | 意大利          | 记录和分析意大利境内COVID-19疫情情况 |
 | 人类移动    | [Japan-Prefectures ILI](https://tinyurl.com/y5dt7stm)        | 日本          | 关于日本各县流感病例统计 |
 | 人类移动    | [US ILI](https://tinyurl.com/y39tog3h)        | 美国          | 2002年到2021年美国疾病控制和预防中心每周数据 |
-| 交通轨迹    | [T-Drive]()        |     中国北京       | 10357辆车177 s/p(Avg.) 采样率 |
-| 交通轨迹    | [Porto]()        |     葡萄牙波尔图       | 442辆车,1,710,990 条轨迹, 15 s/p 采样率 |
+| 交通轨迹    | [T-Drive](https://www.kaggle.com/datasets/arashnic/tdriver)        |     中国北京       | 10357辆车177 s/p(Avg.) 采样率 |
+| 交通轨迹    | [Porto](https://figshare.com/articles/dataset/Porto_taxi_trajectories/12302165)        |     葡萄牙波尔图       | 442辆车,1,710,990 条轨迹, 15 s/p 采样率 |
 | 交通轨迹    | [Taxi-Shanghai]()        |    中国上海        | 4,316辆车,780万条轨迹, 5 s/p 采样率 |
-| 交通轨迹    | [DiDi-Chengdu]()        |      中国成都      | 3,493,918条轨迹, 3 s/p Avg. 采样率 |
+| 交通轨迹    | [DiDi-Chengdu](https://github.com/Whale2021/Dataset)        |      中国成都      | 3,493,918条轨迹, 3 s/p Avg. 采样率 |
 | 交通轨迹    | [DiDi-Xian]()        |      中国西安      | 2,180,348条轨迹, 3 s/p Avg. 采样率 |
 | 交通轨迹    | [Greek]()        |      希腊雅典      | 50辆车, 1.100 条轨迹 |
-| 交通轨迹    | [TaxiBJ]()        |    中国北京        | 30分钟间隔,34.000+辆出租车 |
-| 交通轨迹    | [BikeNYC]()        |      美国纽约      | 1-小时间隔, 6,800+辆自行车 |
-| 交通轨迹    | [TaxiBJ21]()        |     中国北京       | 30-分钟间隔,17,749 辆车 |
+| 交通轨迹    | [TaxiBJ](https://paperswithcode.com/dataset/taxibj)        |    中国北京        | 30分钟间隔,34.000+辆出租车 |
+| 交通轨迹    | [BikeNYC](https://www.kaggle.com/datasets/akkithetechie/new-york-city-bike-share-dataset)        |      美国纽约      | 1-小时间隔, 6,800+辆自行车 |
+| 交通轨迹    | [TaxiBJ21](https://onlinelibrary.wiley.com/doi/abs/10.1002/itl2.297)        |     中国北京       | 30-分钟间隔,17,749 辆车 |
 | 交通轨迹    | [California-PEMS](http://pems.dot.ca.gov/)        |     美国加利福尼亚       | 超过44681个检测器 |
 | 交通轨迹    | [METR-LA](https://77www.metro.net/)        |      美国洛杉矶      | 1500个探测器,涵盖3420英里 |
 | 交通轨迹    | [NYC taxi](https://wwwl.nyc.gov/site/tle/about/tle-trip-record-data.page)        |      美国纽约      | 2009-2018年的数据 |
@@ -398,7 +398,28 @@
 | 交通轨迹    | [Chicago bike](https://www.divvybikes.com/system-data)        |     美国芝加哥       | 2013到如今数据 |
 | 交通轨迹    | [NYC accident](https://data.cityofnewyork.us,)        |       美国纽约     | 2012-2019交通事故 |
 | 交通轨迹    | [Chicago accident](https://data.cityofchicago.org/)        |    美国芝加哥        | 2001-2017年 |
-| 交通轨迹    | [ ]()        |            |  |
+| 兴趣元素    | [Gowalla](https://snap.stanford.edu/data/loc-gowalla.html)        |     全球       | 196,591个节点, 950,327个边 |
+| 兴趣元素    | [BrightKite](https://snap.stanford.edu/data/loc-brightkite.html)        |      全球      | 58,228个节点, 214,078个边 |
+| 兴趣元素    | [Foursquare-NK](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)        |      美国纽约      | 38,336个场地, 824个用户 |
+| 兴趣元素    | [Foursquare-TKY](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)        |     日本       | 61,858个场地, 1,939个用户 |
+| 兴趣元素    | [Foursquare-Global](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)        |     全球       | 3,680,126个场地, 266,909个用户 |
+| 兴趣元素    | [Weeplaces](https://www.yongliu.org/datasets/)        |      全球      | 971,309个场地, 15,799个用户 |
+| 兴趣元素    | [Yelp](https://www.yelp.com/dataset)        |     全球       | 131,930个场地, 1,987,897个用户 |
+| 兴趣元素    | [Instagram](https://www.kaggle.com/discussions/general/79424)        |     美国纽约       | 13,187个场地, 78,233 个用户 |
+| 兴趣元素    | [GMOVE](https://www.researchgate.net/publication/310825033_GMove_Group-Level_Mobility_Modeling_Using_Geo-Tagged_Social_Media)        |      美国      | 72K条轨迹 |
+| 兴趣元素    | [Mobike-Shanghai](https://github.com/MelissaLJ/Shanghai-Mobike-Data-Visualization)        |     中国上海       | 390K+ 辆自行车 |
+| 兴趣元素    | [Bike-Xiamen]()        |      中国厦门      | 50K+ 辆自行车 |
+| 兴趣元素    | [Citi Bikes](https://citibikenyc.com/system-data)        |     美国纽约       | 68K+ 辆自行车, 2,104个活动站 |
+| 环境气象    | [HURDAT](https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html)        |     大西洋       | 1,415 条轨迹, 6 h/p 采样率 |
+| 环境气象    | [BousaiCrowd](https://www.computer.org/csdl/video-library/video/1NYoVVI06oU)        |      日本      | 1百万个用户, 20报道/天采样率 |
+| 环境气象    | [Beijing air quality](https://www.kaggle.com/datasets/sid321axn/beijing-multisite-airquality-data-set)        |      中国北京      | 检测站点为北京,2017-2018每天每小时的数据 |
+| 环境气象    | [Shanghai air quality](http://www.cnemc.cn/en/)        |      中国上海      | 包含上海检测站点信息 |
+| 环境气象    | [ERA5](https://mediatum.ub.tum.de/1524895)        |       全球     | 覆盖从1950年到现在 |
+| 环境气象    | [Denmark wind speed](https://sites.google.com/view/siamak-mehrkanoon/code-data)        |     丹麦       | 包含丹麦境内多个检测站点数据 |
+| 环境气象    | [Dutch wind speed](https://github.com/HansBambel/multidim_conv)        |     荷兰       | 包含荷兰境内风速数据,记录风速、风向、时间戳等 |
+| 环境气象    | [Japan typhoon](http://agora.ex.nii.ac.jp/digital-typhoon/)        |     日本       | 记录台风路径和轻度、降雨量、灾害影响等 |
+| 环境气象    | [California earthquake](https://service.iris.edu)        |     美国加利福尼亚       | 从1969年到2007年的地震信息 |
+
 
 
 
