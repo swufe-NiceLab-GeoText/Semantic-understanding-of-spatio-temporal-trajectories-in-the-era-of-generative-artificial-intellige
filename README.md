@@ -363,3 +363,25 @@
 * Morris J X, Kuleshov V, Shmatikov V, et al. 2023. [Text embeddings reveal (almost) as much as text](https://arxiv.org/abs/2310.06816). *arXiv preprint 2023*.
 *	Garg N, Schiebinger L, Jurafsky D, et al. 2018. [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/doi/abs/10.1073/pnas.1720347115). *Proceedings of the National Academy of Sciences 2018*.
 * He J, Xia M, Fellbaum C, et al. 2022. [MABEL: Attenuating gender bias using textual entailment data](https://arxiv.org/abs/2210.14975). *arXiv preprint 2022*.
+
+
+<h1 id="dataset">常用数据集链接</h1> 
+<h2 id="human_move">人类移动</h2> 
+* GeoLife
+* TMD
+* SHL
+* OpenStreetMap
+* MDC
+* MI-Humob2023
+* COVlD19USFlows
+* ETH walking pedestrians
+* US Covid-19
+* Italy Covid-19
+* Japan-Prefectures ILI
+* US ILI
+
+<h2 id="traffic_track">交通轨迹</h2> 
+
+<h2 id="elements_interest">兴趣元素</h2> 
+
+<h2 id="environmental_meteorology">环境气象</h2> 
