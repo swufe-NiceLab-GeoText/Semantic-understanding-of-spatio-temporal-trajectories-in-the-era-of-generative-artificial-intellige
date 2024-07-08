@@ -378,8 +378,8 @@
 | 人类移动    | [MIT-Humob2023](https://connection.mit.edu/humob-challenge-2023)        | 日本          | 10万个人,85种场地 |
 | 人类移动    | [COVlD19USFlows](https://github.com/GeoDS/COVID19USFlows)        | 美国         | 22万个场地,数百万匿名用户 |
 | 人类移动    | [ETH walking pedestrians](https://paperswithcode.com/dataset/eth-biwi-walking-pedestrians)        | 瑞士          | 4006张图像,19个城市景观类别像素级注释 |
-| 人类移动    | [US Covid-19](https://github.com/CSsEGISandData/COVD-19)        | 美国          | 记录和分析美国境内COVID-19疫情情况 |
-| 人类移动    | [Italy Covid-19](https://github.com/pcm-dpc/COVD-19)        | 意大利          | 记录和分析意大利境内COVID-19疫情情况 |
+| 人类移动    | [US Covid-19](https://github.com/CSSEGISandData/COVID-19)        | 美国          | 记录和分析美国境内COVID-19疫情情况 |
+| 人类移动    | [Italy Covid-19](https://github.com/pcm-dpc/COVID-19)        | 意大利          | 记录和分析意大利境内COVID-19疫情情况 |
 | 人类移动    | [Japan-Prefectures ILI](https://tinyurl.com/y5dt7stm)        | 日本          | 关于日本各县流感病例统计 |
 | 人类移动    | [US ILI](https://tinyurl.com/y39tog3h)        | 美国          | 2002年到2021年美国疾病控制和预防中心每周数据 |
 | 交通轨迹    | [T-Drive](https://www.kaggle.com/datasets/arashnic/tdriver)        |     中国北京       | 10357辆车177 s/p(Avg.) 采样率 |
