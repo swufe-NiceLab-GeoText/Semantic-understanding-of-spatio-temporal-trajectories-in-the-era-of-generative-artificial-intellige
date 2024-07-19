@@ -366,7 +366,7 @@
 * He J, Xia M, Fellbaum C, et al. 2022. [MABEL: Attenuating gender bias using textual entailment data](https://arxiv.org/abs/2210.14975). *arXiv preprint 2022*.
 
 
-<h2 id="dataset">常用数据集链接</h2> 
+<h2 id="dataset">常用数据集</h2> 
 
 | 分类类型    | 数据集名称      | 主要地区      | 数据集介绍               |
 |-------------|----------------|---------------|--------------------------|
