@@ -1,4 +1,4 @@
-# SWUFE-GeoText
+# Semantic understanding of spatio-temporal trajectories in the era of generative artificial intelligence: challenges, opportunities and developments
 
 
 * [背景知识](#background)
