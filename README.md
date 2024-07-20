@@ -9,7 +9,7 @@
   * [时空图神经网络](#spatial_temporal_graph_neural_networks)
   * [概率深度学习](#probability_deep_learning)
   * [基于底座模型的学习](#foundation_model_based_learning)
-* [时空轨迹语义理解核心任务](#core_tasks)
+* [时空轨迹语义理解核心任务](#core_tasks)  
   * [时空要素表示学习](#element_representation_learning)
     * [深度表示学习](#deep_representation_learning)
     * [解耦表示学习](#disentangled_representation_learning)
@@ -60,7 +60,7 @@
 
 * Jinyu Hong, Ping Kuang, Qiang Gao*, Fan Zhou. 2024. [Disentanglement-Guided Spatial-Temporal Graph Neural Network for Metro Flow Forecasting(Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/30452). *The Thirty-Eighth AAAI Conference on Artificial Intelligence 2024*.
 * Qiang Gao, Fan Zhou, Ting Zhong, Goce Trajcevski, Xin Yang, and Tianrui Li. 2022. [Contextual Spatio-Temporal Graph Representation Learning for Reinforced Human Mobility Mining](https://www.sciencedirect.com/science/article/pii/S0020025522004819). *Information Sciences 2022*.
-*	Feng J, Li Y, Zhang C, et al. 2018. [Deepmove: Predicting human mobility with attentional recurrent networks](https://dl.acm.org/doi/abs/10.1145/3178876.3186058). *Proceedings of the 2018 world wide web conference 2018*.
+*	Feng J, Li Y, Zhang C, et al. 2018. [Deepmove: Predicting human mobility with attentional recurrent networks](https://dl.acm.org/doi/abs/10.1145/3178876.3186058). *Proceedings of the 2018 world wide web conference 2018*  .    
 *	Gao J, Sharma R, Qian C, et al. 2021. [STAN: spatio-temporal attention network for pandemic prediction using real-world evidence](https://academic.oup.com/jamia/article-abstract/28/4/733/6118380). *Journal of the American Medical Informatics Association 2021*. 
 *	Bai S, Kolter J Z, Koltun V. 2018. [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271). *arXiv: Learning 2018*.
 *	Su Z, Liu T, Hao X, et al. 2023. [Spatial-temporal graph convolutional networks for traffic flow prediction considering multiple traffic parameters](https://link.springer.com/article/10.1007/s11227-023-05383-0). *The Journal of Supercomputing 2023*. 
