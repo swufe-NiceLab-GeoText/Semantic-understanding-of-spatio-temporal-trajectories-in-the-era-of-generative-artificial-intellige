@@ -373,7 +373,7 @@
 | 人类移动    | [GeoLife](https://www.microsoft.com/en-us/download/details.aspx?id=52367)        | 亚洲          | 182个用户,17621个轨迹,91%的1~5S/P采样率|
 | 人类移动    | [TMD](https://cs.unibo.it/projects/us-tm2017/)       | 意大利          | 13个用户,226个轨迹,0.05s/p采样率|
 | 人类移动    | [SHL](http://www.shl-dataset.org/)        | 英国          | 3个用户,12个轨迹,1S/P采样率  |
-| 人类移动    | [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Downloading_data)        | 全球          | 870万+轨迹,持续更新 |
+| 人类移动    | [OpenStreetMap](https://www.openstreetmap.org/#map=15/30.67060/104.07670)        | 全球          | 870万+轨迹,持续更新 |
 | 人类移动    | [MDC](https://www.idiap.ch/en/scientific-research/data/mdc)        | 瑞士          | 185个轨迹,近200个个体 |
 | 人类移动    | [MIT-Humob2023](https://connection.mit.edu/humob-challenge-2023)        | 日本          | 10万个人,85种场地 |
 | 人类移动    | [COVlD19USFlows](https://github.com/GeoDS/COVID19USFlows)        | 美国         | 22万个场地,数百万匿名用户 |
